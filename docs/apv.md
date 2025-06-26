@@ -13,7 +13,7 @@
     Door het joinen van de server ga je automatisch akkoord met deze regels, deze kunnen ten altijd aangepast worden.
     
 ## Algemene Bepalingen
-TESTTTTTTTTTTTTTTTTTTTTTTTTTTT Donske was hier
+
 ### A1 - Reikwijdte
 1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Amersfoort.
 2. De APV biedt een indicerend kader voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de RP om. -
