@@ -540,14 +540,14 @@ Als je refund hier niet aan voldoet, staat een stafflid in zijn/haar recht om je
 
 ### Artikel 47 - Helikopters & Vliegtuigen
 
-1. Het is verplicht om ten alle tijden een minimale hoogte van 200 meter aan te houden.
-2. Je mag enkel landen op een helipad, tenzij je op eiland bent mag je hem ook landen op het vliegveld.
-3. Het is verder nergens toegestaan om je helikopter te landen.
+1. Het is verplicht om ten alle tijden een minimale hoogte van 150 meter aan te houden.
+2. Je mag in het rode gebied enkel landen op een helipad.
+3. Je mag in het groene gebied enkel op vlakken gebieden landen en op zand paden (niet op auto wegen).
+4. Je mag op eiland overal landen.
+5. Je mag met een vliegtuig enkel op een vliegveld landen nergens anders.
 
 | Straf | Categorie 3 |
 |---|---|
-
-
 
 
 
