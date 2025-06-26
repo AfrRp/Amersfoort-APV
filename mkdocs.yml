@@ -1,0 +1,58 @@
+# Project information
+site_name: AmersfoortRolePlay
+site_url: 'https://amersfoortrp.github.io/apv/'
+site_description: 'Wet en regelgeving van Amersfoort'
+site_author: 'AmersfoortRolePlay'
+
+# Copyright
+copyright: Copyright &copy; 2024 AmersfoortRolePlay
+
+# Repository
+# repo_url: 'https://github.com/AmersfoortRP/apv/tree/gh-pages'
+# repo_name: 'AmersfoortRP/wet-en-regelgeving'
+# edit_uri: 'https://github.com/AmersfoortRP/apv/blob/master/docs/'
+
+# Configuration
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Omschakelen naar donkere modus
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Omschakelen naar lichte modus
+  favicon: img/logoAmersfoort.png
+  logo: img/logoAmersfoort.png
+  custom_dir: docs/overrides
+  language: nl
+plugins:
+  - git-revision-date-localized:
+      enabled: !ENV [CI, false]
+      type: timeago
+      time_zone: Europe/Amsterdam
+      locale: nl
+      fallback_to_build_date: false
+  - search:
+      lang: nl
+markdown_extensions:
+  - admonition
+  - attr_list
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - javascripts/tables.js
+nav:
+  - Home: index.md
+  - Informatie: informatie.md
+  - Algemene Plaatselijke Verordening: apv.md
+  - Wetboek AFR: wetboek.md
+  - Onderwereld Regels: onderwereldregels.md
+  - Hulpdiensten Regels: hulpdienstenregels.md
+  - Risicogebieden: risicogebieden.md
+  - Main website: https://amersfoortroleplay.nl/
