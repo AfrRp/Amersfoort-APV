@@ -31,7 +31,7 @@ Van deze personen mogen alle bezittingen worden afgenomen, zoals contant geld, z
 Geblindeerde ramen zijn geen geldige reden om iemand te rippen.
 4. Overheidsmedewerkers die in dienst zijn, mogen niet worden geript.
 5. Personen die bezig zijn met een officiële gangjob mogen niet worden geript.
-6. Om iemand te rippen moet je altijd een video-opname (clip) hebben die laat zien dat de persoon voldoet aan een van de bovenstaande regels. Deze clip mag maximaal 24 uur oud zijn.
+6. Om iemand te rippen moet je altijd een video-opname (clip) hebben die laat zien dat de persoon voldoet aan een van de bovenstaande regels. Deze clip mag maximaal 6 uur oud zijn.
 7. Een persoon kan alleen worden geript als binnen een uur na aankomst op het eiland kan worden vastgesteld dat hij of zij daar is geweest. Dit moet gebeuren aan de hand van 8. een ID-kaart en een herkenbare outfit. Na dit uur vervalt de mogelijkheid om de persoon te rippen.
 8. Zodra jij iemand spot met een vuurwapen en hem achtervolgt voor 4/5 bochten en/of 2 minuten, heeft de persoon recht om op jou te rippen.
 
