@@ -35,6 +35,12 @@ Geblindeerde ramen zijn geen geldige reden om iemand te rippen.
 7. Een persoon kan alleen worden geript als binnen een uur na aankomst op het eiland kan worden vastgesteld dat hij of zij daar is geweest. Dit moet gebeuren aan de hand van 8. een ID-kaart en een herkenbare outfit. Na dit uur vervalt de mogelijkheid om de persoon te rippen.
 8. Zodra jij iemand spot met een vuurwapen en hem achtervolgt voor 4/5 bochten en/of 2 minuten, heeft de persoon recht om op jou te rippen.
 
+| Straf | Straf | Rippen zonder reden. |
+|---|---|---|
+| 1e Rippen zonder reden. | Categorie 6 |
+| 2e Rippen zonder reden. | Categorie 7 | 
+| 3e Rippen zonder reden. | Categorie 8 | 
+
 ### Artikel 102.1.OW - Overige Regels Rippen/Hostage
 1. Personen rippen zonder enkele roleplay is niet toegestaan. (Voorbeeld: Iemand een lift aanbieden en daarna /me vastbinden + coms afpakken is NIET toegestaan.)
 2. Iemand uitkleden zodat het wapen tevoorschijn komt is niet toegestaan. (Powergaming)
