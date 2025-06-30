@@ -30,7 +30,7 @@ Het is verplicht om je aan de eisen te houden die zijn afgesproken onderling, do
 
 1. Huiszoekingen zijn op bepaalde voorwaarde toegestaan.
 	- Een huiszoeking dient ten aller tijde goedgekeurd te zijn door een OVJ.
-	- Een huiszoeking mag plaats vinden als de verdachte voor de 5e keer is aanhouden binnen een maand (dus bijvoorbeeld van 15-05 tot 15-06) is aangehouden met een wapen van welke aard dan ook.
+	- Een huiszoeking mag plaats vinden als de verdachte voor de 5e keer is aanhouden binnen een maand (dus bijv. van 15-05 tot 15-06) is aangehouden met een wapen van welke aard dan ook.
 	- Een huiszoeking mag plaats vinden als er voldoende onderzoek is gedaan door de recherche en dit goedgekeurd is door een OVJ.
 2. Wat mag er doorzocht worden tijdens een huiszoeking?
 	- Bij een huiszoeking mag het appartement van verdachte worden gecontroleerd.
