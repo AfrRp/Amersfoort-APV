@@ -268,7 +268,7 @@ Wordt deze stap overgeslagen, kan de geripte persoon een refund aanvragen door e
 	- Catogorie 2: Shotgun, SMG'S.
 	- Catogorie 3: Assaultrifles.
 
-6. (Mocht je niet aan deze eisen voldoen voor de overvallen heb je kans dat de DSI binnenvalt.)
+6. Mocht je niet aan deze eisen voldoen voor de overvallen heb je kans dat de DSI binnenvalt.
 
 
 ### Artikel 127.0W Pluklocaties
