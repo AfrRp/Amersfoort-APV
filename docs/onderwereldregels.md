@@ -249,22 +249,26 @@ Wordt deze stap overgeslagen, kan de geripte persoon een refund aanvragen door e
 
 ### Artikel 126.OW - Overvallen Plegen
 1. Het is verboden om kort achter elkaar een bank, juwelier of winkel overval te doen. Er moet vanaf nu minimaal 45 minuten tussen zitten.
-2. Voor een Winkel Overval moet er minimaal **2** hostage zijn, Minimaal **1** steekwapen of vuurwapen.
-3. Voor een Ammo Store moeten er minimaal **2** hostage zijn, Minimaal **1** catogorie **1** vuurwapen.
-4. Voor een Legerbasis Overval moeten er minimaal **2** hostages zijn, Minimaal 1 catogorie **1** vuurwapen.
-5. Voor een Kleine bank overval moeten er minimaal **3** hostages zijn, minimaal **1** catogorie **2** vuurwapen.
-6. Voor een Juwelier overval moeten er minimaal **3** hostages zijn, minimaal **1** catogorie **2** vuurwapen.
-7. Voor een Humane Labs overval moeten er minimaal **4** hostages zijn, Minimaal **1** catogorie **2** vuurwapen & **1** catogorie **1** vuurwapen.
-8. Voor een Grote bank overval moeten er minimaal **5** hostages zijn, minimaal **2** catogorie **2** vuurwapen.
-9. Zodra jij een overval of gijzeling doet en je krijgt groenlicht mag er 3 minuten lang geen setup gegooid worden. De 3 minuten worden gerekend vanaf het moment dat er groenlicht gegeven is. Indien je wel een setup doet, valt dit onder RDM/ verstoren roleplay.
+2. Als er politie aangekoppeld is mogen er geen andere gang leden zich meer bij het scenario betrekken, en ook niet in de omgeving zijn/bevinden/rondrijden.
+	- Als een ganglid vertrekt voor de politie en vervolgens terugkomt, is dit niet meer toegestaan om aan te koppelen. (Mits dit overlegd wordt met de onderhandelaar vanuit de politie)
+3. Zodra jij een overval of gijzeling doet en je krijgt groenlicht mag er 3 minuten lang geen setup gegooid worden. De 3 minuten worden gerekend vanaf het moment dat er groenlicht gegeven is. Indien je wel een setup doet, valt dit onder RDM/ verstoren roleplay.
 
-10. Catogorie 0: Slag & stoot wapen.
-11. Catogorie 1: Pistols.
-12. Catogorie 2: Shotgun, SMG'S.
-13. Catogorie 3: Assaultrifles.
+4. Juiste aantallen hostages & Wapens voor overvallen:
+	- Voor een Winkel Overval moet er minimaal **2** hostage zijn, Minimaal **1** steekwapen of vuurwapen.
+	- Voor een Ammo Store moeten er minimaal **2** hostage zijn, Minimaal **1** catogorie **1** vuurwapen.
+	- Voor een Legerbasis Overval moeten er minimaal **2** hostages zijn, Minimaal 1 catogorie **1** vuurwapen.
+	- Voor een Kleine bank overval moeten er minimaal **3** hostages zijn, minimaal **1** catogorie **2** vuurwapen.
+	- Voor een Juwelier overval moeten er minimaal **3** hostages zijn, minimaal **1** catogorie **2** vuurwapen.
+	- Voor een Humane Labs overval moeten er minimaal **4** hostages zijn, Minimaal **1** catogorie **2** vuurwapen & **1** catogorie **1** vuurwapen.
+	- Voor een Grote bank overval moeten er minimaal **5** hostages zijn, minimaal **2** catogorie **2** vuurwapen.
 
-14. (Mocht je niet aan deze eisen voldoen voor de overvallen heb je kans dat de DSI binnenvalt.)
+5. Categorieen Wapens:
+	- Catogorie 0: Slag & stoot wapen.
+	- Catogorie 1: Pistols.
+	- Catogorie 2: Shotgun, SMG'S.
+	- Catogorie 3: Assaultrifles.
 
+6. (Mocht je niet aan deze eisen voldoen voor de overvallen heb je kans dat de DSI binnenvalt.)
 
 
 ### Artikel 127.0W Pluklocaties
