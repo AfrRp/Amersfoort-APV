@@ -29,22 +29,22 @@ Het is verplicht om je aan de eisen te houden die zijn afgesproken onderling, do
 ### Artikel 201.HD - Huiszoekingen 
 
 1. Huiszoekingen zijn op bepaalde voorwaarde toegestaan.
-       - Een huiszoeking dient ten aller tijde goedgekeurd te zijn door een OVJ.
-       - Een huiszoeking mag plaats vinden als de verdachte voor de 5e keer is aanhouden binnen een maand (dus bijvoorbeeld van 15-05 tot 15-06) is aangehouden met een wapen van welke aard dan ook.
-       - Een huiszoeking mag plaats vinden als er voldoende onderzoek is gedaan door de recherche en dit goedgekeurd is door een OVJ.
+	- Een huiszoeking dient ten aller tijde goedgekeurd te zijn door een OVJ.
+	- Een huiszoeking mag plaats vinden als de verdachte voor de 5e keer is aanhouden binnen een maand (dus bijvoorbeeld van 15-05 tot 15-06) is aangehouden met een wapen van welke aard dan ook.
+	- Een huiszoeking mag plaats vinden als er voldoende onderzoek is gedaan door de recherche en dit goedgekeurd is door een OVJ.
 2. Wat mag er doorzocht worden tijdens een huiszoeking?
-       - Bij een huiszoeking mag het appartement van verdachte worden gecontroleerd.
-       - Bij een huiszoeking mag de container van verdachte worden gecontroleerd.
-       - Bij een huiszoeking mag de privé stash van de verdachte worden gecontroleerd.
-       - Bij een huiszoeking mag de huur box van de verdachte worden gecontroleerd.
-       - Bij een huiszoeking mogen de voertuigen/eilandvoertuigen van verdachten worden gecontroleerd. (In dit geval mag de verdachte hier niet mee wegrijden.)
+	- Bij een huiszoeking mag het appartement van verdachte worden gecontroleerd.
+	- Bij een huiszoeking mag de container van verdachte worden gecontroleerd.
+	- Bij een huiszoeking mag de privé stash van de verdachte worden gecontroleerd.
+	- Bij een huiszoeking mag de huur box van de verdachte worden gecontroleerd.
+	- Bij een huiszoeking mogen de voertuigen/eilandvoertuigen van verdachten worden gecontroleerd. (In dit geval mag de verdachte hier niet mee wegrijden.)
 3. Tijdens een huiszoeking mogen de volgende dingen in beslag worden genomen:
-       - Als er wapens aangetroffen worden dan mag 50% van de totale inhoud van de woning en de voertuigen/vaartuigen/vliegtuigen/container samen in beslag worden genomen.
-       - Echter word tijdens de huiszoeking zelf de volle 100% ingenomen en kun jij later via een ticket de 50% terug krijgen bij een van de HDC's
+	- Als er wapens aangetroffen worden dan mag 50% van de totale inhoud van de woning en de voertuigen/vaartuigen/vliegtuigen/container samen in beslag worden genomen.
+	- Echter word tijdens de huiszoeking zelf de volle 100% ingenomen en kun jij later via een ticket de 50% terug krijgen bij een van de HDC's
 4. Regels tijdens een huiszoeking.
-       - Bij de huiszoeking is de verdachte ten aller tijden verplicht hieraan mee te werken, wordt dit niet gedaan dan zal hier een wapenlijstclear op staan.
-       - Tijdens een huiszoeking mag de verdachte niet worden vrijgebroken. Tenzij de verdachte vanuit het hoofdbureau naar de gevangenis vervoerd wordt, de verdachte heeft dan recht op 1 telefoontje om te melden dat hij vervoerd word.
-       - Als de verdachte word vrijgebroken door zijn/haar eigen gangmembers zal persoon niet 50% moeten afstaan maar 30% en krijg dus 70% van de totale inhoud terug.
+	- Bij de huiszoeking is de verdachte ten aller tijden verplicht hieraan mee te werken, wordt dit niet gedaan dan zal hier een wapenlijstclear op staan.
+	- Tijdens een huiszoeking mag de verdachte niet worden vrijgebroken. Tenzij de verdachte vanuit het hoofdbureau naar de gevangenis vervoerd wordt, de verdachte heeft dan recht op 1 telefoontje om te melden dat hij vervoerd word.
+	- Als de verdachte word vrijgebroken door zijn/haar eigen gangmembers zal persoon niet 50% moeten afstaan maar 30% en krijg dus 70% van de totale inhoud terug.
 
 ### Artikel 202.HD - Aanhouden & Transporteren
 
