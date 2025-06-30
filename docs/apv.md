@@ -330,7 +330,7 @@
 ### **Artikel 22.2 - RDM (Politie)**
 1. Het is niet toegestaan om Politie gelijk dood te schieten wanneer ze niet zijn uitgestapt met een vuurwapen. (dus niet meteen dood schieten wanneer ze aankoppelen)
       - Dit komt te vervallen als je in een ''shootout'' zit en je meerdere keren op elkaar bent uitgestapt.
-2. Wanneer het mogelijk is om de communicatie/wapenriem af te pakken van een agent is het niet toegestaan om deze te finishen. (dus wanneer jij binnen 10 mtr staat van deze persoon)
+2. Wanneer het mogelijk is om de communicatie/wapenriem af te pakken van een agent is het niet toegestaan om deze te finishen. (of dit nu binnen of buiten de 10mtr is finishen is niet toegestaan)
 3. Het is niet toegestaan om bewust te wachten op een scenario waar niets meer te doen is of bewust in de lucht te schieten om een shootout aan te gaan met politie om deze dan dood te schieten dit wordt gezien als RDMm.
 
 
