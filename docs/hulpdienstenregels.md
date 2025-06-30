@@ -3,7 +3,9 @@
 
 ## Hulpdiensten Regels
 
-
+!!! attention "LET OP"
+    Bepaalde Regels zijn aangepast lees deze dus eventjes goed door!
+    
 ### Artikel 120.HD - Eisen tijdens overval
 Het is verplicht om je aan de eisen te houden die zijn afgesproken onderling, doe je dit niet vervallen alle afspraken en mag er door de hulpdiensten ingegrepen worden.
 
