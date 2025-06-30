@@ -186,7 +186,7 @@ Aan de volgende regels dient een agent zich te houden tijdens de inbeslagname va
 	- Zonder problemen aangekomen, ontvangt de persoon zijn straf. 
 	- Als laatste wordt als dit van toepassing is, de wapeninname ingevuld in de juiste systemen. 
 
-
+*"APV" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersfoort”, opgemaakt door Kenn, Dominique & Joostt.
 
 
 
