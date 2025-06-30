@@ -61,4 +61,4 @@ Proberen ‘’loopholes’’ te vinden in de regels en/of de regels te misbrui
   **- Vraag wel eerst toestemming van je ouders als je jonger bent dan 18 jaar om eventueel een donatie te doen.** 
 
 ---------------------
-*"Informatie - Regels" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersfoort”, opgetekend door Portak te Amersfoort.*
+*"Informatie - Regels" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersfoort”, opgemaakt door Kenn, Dominique & Joostt.*
