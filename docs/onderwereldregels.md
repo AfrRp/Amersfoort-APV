@@ -2,7 +2,7 @@
 ## Onderwereld - Regels
 
 !!! attention "LET OP"
-    Bepaalde regels zijn aangepast lees deze dus eventjes goed door!
+    Artikel 121.OW - Eisen tijdens overval is aangepast lees deze dus eventjes goed door!
     
 ### Artikel 101.OW -  Wapenlijst 
 * Zoals vele weten werken we binnen Amersfoort Roleplay met een wapenlijst. Ieder wapen dat in jouw bezit is, dient op jouw persoonlijke wapenlijst te staan. Heb jij dus een wapen geript/gekocht dien jij een ticket aan te maken. Voor dat deze ticket is goedgekeurd mag je dit wapen dus niet gebruiken. Doe je dit wel zal het wapen ingenomen worden en zal je daarvoor een straf krijgen. Deze krijg je dus ook niet terug.
@@ -211,14 +211,19 @@ Het afnemen van items (wapens, drugs, etc.) mag **alleen**:
 ### Artikel 121.OW - Eisen tijdens overval
 Het is verplicht om je aan de eisen te houden die zijn afgesproken onderling, doe je dit niet vervallen alle afspraken en mag er door de hulpdiensten ingegrepen worden.
 
-1. Er mag een maximaal aan **6** eisen gesteld worden. Ongeacht het aantal hostages hier zijn regels aan verbonden:
-- Er mag maximaal **4** seconden geëist worden als een crimineel **2** seconden wil, wat geldt als **1** eis.
-- Er mag per tegeneis maximaal **2** seconden gesteld worden door de politie. (Dit betekent dat **4** seconden gelijkstaat aan **2** tegeneisen.)
-- Het wegrijden met 1 auto telt als **1** eis, en als de politie een auto wil wegeisen, telt dit ook als **1** tegeneis.
-- **20K** geldt als **1** tegeneis, wat betekent dat **60K** wegeisen gelijkstaat aan **3** tegeneisen.
+1. Regels waar een Crimineel zich aan moet houden.
+    - Er mag een maximaal aan **6** eisen gesteld worden. Ongeacht het aantal hostages hier zijn regels aan verbonden:
+    - Er mag maximaal **4** seconden geëist worden als een crimineel **2** seconden wil, wat geldt als **1** eis.
+    - Het wegrijden met 1 auto telt als **1** eis, en als de politie een auto wil wegeisen, telt dit ook als **1** tegeneis.
+    - **20K** geldt als **1** tegeneis, wat betekent dat **60K** wegeisen gelijkstaat aan **3** tegeneisen.
 
+2. Regels waar de Onderhandelaar vanuit de Politie zich aan moet houden.
+    - De Politie heeft een maximum aan **3** tegen eisen die gestelt mogen worden.
+    - Er mag per tegeneis maximaal **2** seconden gesteld worden door de politie. (Dit betekent dat **4** seconden gelijkstaat aan **2** tegeneisen.)
+    - Een auto van een Crimineel mag enkel weggeist worden als er meer autos dan personen op locatie aanwezig zijn, dan mag de politie 1 van de 2/3 voertuigen wegeisen. **(Dus aan 4 personen per voertuig)**
+    - Een auto van een Crimineel mag enkel worden veranderd als er een carwipe is geweest. **(Dus niet omdat deze te snel gaat)**
 
-   2. Wel zijn er veel eisen die niet gesteld mogen worden, deze staan hieronder:
+3. Eisen die niet gesteld mogen worden tijdens een onderhandeling.
     - De eis "Geen achtervolging" mag niet gesteld worden.
     - De eisen "niet schieten totdat wij schieten" of "Niet op banden schieten" of andere dergelijken mogen niet gesteld worden.
     - De eis "motor uit" mag niet gesteld worden.
@@ -227,8 +232,6 @@ Het is verplicht om je aan de eisen te houden die zijn afgesproken onderling, do
     - Er mogen geen hostage's verwond worden. Wordt dit wel gedaan mogen de hulpdiensten ingrijpen.
     - Er mogen geen hostage's mee worden genomen in een achtervolging.
     - Er mogen geen eenheden weg geeist worden. **(zulu, DSI, Recherche bijvoorbeeld)**
-
-3. De Politie heeft een maximum aan **3** tegen eisen die gestelt mogen worden.
 
 
 ### Artikel 122.OW - Afhandelen geripte personen
