@@ -2,7 +2,7 @@
 ## Onderwereld - Regels
 
 !!! attention "LET OP"
-    Artikel 121.OW - Eisen tijdens overval is aangepast lees deze dus eventjes goed door!
+    **Artikel 121.OW - Eisen tijdens overval** is aangepast lees deze dus eventjes goed door!
     
 ### Artikel 101.OW -  Wapenlijst 
 * Zoals vele weten werken we binnen Amersfoort Roleplay met een wapenlijst. Ieder wapen dat in jouw bezit is, dient op jouw persoonlijke wapenlijst te staan. Heb jij dus een wapen geript/gekocht dien jij een ticket aan te maken. Voor dat deze ticket is goedgekeurd mag je dit wapen dus niet gebruiken. Doe je dit wel zal het wapen ingenomen worden en zal je daarvoor een straf krijgen. Deze krijg je dus ook niet terug.
