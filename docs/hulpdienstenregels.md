@@ -18,7 +18,7 @@ Het is verplicht om je aan de eisen te houden die zijn afgesproken onderling, do
 2. Regels waar de Onderhandelaar vanuit de Politie zich aan moet houden.
     - De Politie heeft een maximum aan **3** tegen eisen die gestelt mogen worden.
     - Er mag per tegeneis maximaal **2** seconden gesteld worden door de politie. (Dit betekent dat **4** seconden gelijkstaat aan **2** tegeneisen.)
-    - Een auto van een Crimineel mag enkel weggeist worden als er meer autos dan personen op locatie aanwezig zijn, dan mag de politie 1 van de 2/3 voertuigen wegeisen. **(Dus aan 4 personen per voertuig)**
+    - Een auto van een Crimineel mag enkel weggeist worden als er meer autos dan personen op locatie aanwezig zijn, dan mag de politie 1 van de 2/3 voertuigen wegeisen. **(Denk aan 4 personen per voertuig)**
     - Een auto van een Crimineel mag enkel worden veranderd als er een carwipe is geweest. **(Dus niet omdat deze te snel gaat)**
 
 3. Eisen die niet gesteld mogen worden tijdens een onderhandeling.
