@@ -261,6 +261,8 @@ Wordt deze stap overgeslagen, kan de geripte persoon een refund aanvragen door e
 	- Voor een Juwelier overval moeten er minimaal **3** hostages zijn, minimaal **1** catogorie **2** vuurwapen.
 	- Voor een Humane Labs overval moeten er minimaal **4** hostages zijn, Minimaal **1** catogorie **2** vuurwapen & **1** catogorie **1** vuurwapen.
 	- Voor een Grote bank overval moeten er minimaal **5** hostages zijn, minimaal **2** catogorie **2** vuurwapen.
+        - Voor een Juwelier Special overval moeten er minimaal **4** hostages zijn, minimaal **2** catogorie **2** vuurwapen.
+
 
 5. Categorieen Wapens:
 	- Catogorie 0: Slag & stoot wapen.
