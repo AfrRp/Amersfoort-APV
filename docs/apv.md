@@ -319,12 +319,11 @@
 ### **Artikel 22.1 - RDM (Crimineel)**
 1. Het moment dat 2 partijen op elkaar schieten, mag jij er ten alle tijden voor kiezen of jij iemand dood schiet of niet.
 2. Wanneer deze shootout doorgaat in een achtervolging, mag er ten alle tijden dodelijk vuur worden geopend van outsiders. (dit betekent dat er direct dodelijk vuur mag worden gebruikt) (lid 3. blijft ten alle tijden van toepassing)
-3. Je mag alleen mensen doodschieten die in een auto zitten als jij persoon hebt zien schieten en je hem 0x uit het zicht bent verloren. Verlies jij persoon wel uit het zicht, heb jij geen reden meer om dodelijk vuur te openen.
-4. Het moment dat jij aan het schieten bent mag jij ten alle tijden worden doodgeschoten, het is dus volledig eigen risico. 
-5. Het moment dat jij een vuurwapen trekt op een locatie waar geschoten word, is het jouw eigen risico. (hier mag jij dus doodgeschoten worden / gefinished)
-6. Iemand vermoorden omdat hij niet wilt “Zingen” / “Blaffen” wordt dergelijk gezien als RDM.
-7. Het willekeurig vermoorden van spelers zonder enige geldige reden.
-8. Zodra de shootout voorbij is (dus niet meer geschoten wordt) en persoon heeft zijn handen omhoog is het niet toegestaan om hem/haar af te schieten.
+3. Het moment dat jij aan het schieten bent mag jij ten alle tijden worden doodgeschoten, het is dus volledig eigen risico. 
+4. Het moment dat jij een vuurwapen trekt op een locatie waar geschoten word, is het jouw eigen risico. (hier mag jij dus doodgeschoten worden / gefinished)
+5. Iemand vermoorden omdat hij niet wilt “Zingen” / “Blaffen” wordt dergelijk gezien als RDM.
+6. Het willekeurig vermoorden van spelers zonder enige geldige reden.
+7. Zodra de shootout voorbij is (dus niet meer geschoten wordt) en persoon heeft zijn handen omhoog is het niet toegestaan om hem/haar af te schieten.
 
 
 ### **Artikel 22.2 - RDM (Politie)**
