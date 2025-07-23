@@ -1,4 +1,4 @@
-# Algemene Plaatselijke Verordening Amersfoort
+F# Algemene Plaatselijke Verordening Amersfoort
 
 ## Wetstechnische informatie
 
@@ -71,6 +71,7 @@
 7. Het uitvoeren van acties in /me is niet toegestaan. Alles wat jij doet moet via /do gebeuren.
 8. Enkele voorbeelden van lid 1 en lid 3 zijn:
   * Niet meewerken aan een roleplayscenario of een /me-command, bijvoorbeeld opzettelijk een onjuiste portofrequentie doorgeven nadat er een roleplayactie is uitgevoerd om dit te achterhalen.
+9. Het is niet toegestaan om blokkades te plaatsen bij of direct voor het hek van de gevangenis.
     * Tijdens een achtervolging je voertuig in de garage zetten om te voorkomen dat je je voertuig kwijtraakt.
     * HeadID's misbruiken om spelers te vinden/identificeren tijdens een roleplayscenario.
     * Onjuist of onrealistisch gebruik maken van het F6-menu.
