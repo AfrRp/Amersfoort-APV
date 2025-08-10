@@ -189,7 +189,13 @@ Aan de volgende regels dient een agent zich te houden tijdens de inbeslagname va
 	- Aangekomen op het HB wordt de persoon aangemeld in het MEOS-systeem en worden de nodige straffen berekend, eventueel in samenspraak met een advocaat. 
 	- Mocht de persoon er klaar voor zijn,dan wordt deze richting de gevangenis vervoerd. (Tijdens deze rit hebben eventuele vrienden de kans om dit busje te counteren, zie: Artikel 134.0W Vrijbreken van gangmembers.)  
 	- Zonder problemen aangekomen, ontvangt de persoon zijn straf. 
-	- Als laatste wordt als dit van toepassing is, de wapeninname ingevuld in de juiste systemen. 
+	- Als laatste wordt als dit van toepassing is, de wapeninname ingevuld in de juiste systemen.
+
+### Artikel 212.HD - Crimineel als Advocaat
+Aan de volgende regels dient een crimineel zich te houden tijdens de roleplay als advocaat zijnde.
+
+1. Als een Crimineel ervoor kiest om deel te nemen aan een scenario als advocaat mag hij nadat hij het HB uitloopt de komende 10 minuten niet meer aankoppelen aan dit zelfde scenario met een vuurwapen (om bijvoorbeeld zijn of haar vriend/gangmember te bevrijden met een vuurwapen)
+2. Als een Crimineel ervoor kiest om deel te nemen aan een scenario als advocaat dient hij ten alle tijden **zonder** vuurwapen te komen (HB is nog steeds een greenzone) en mee te werken aan de RP tussen de agent en de verdachte.
 
 ---------------------
 *"APV" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersfoort”, opgemaakt door Kenn, Dominique & Joostt.
