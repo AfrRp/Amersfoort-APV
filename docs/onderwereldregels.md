@@ -132,7 +132,7 @@ Iemand laten instappen in je auto, en vervolgens /me boeit vast + pakt coms af.
 - Heel lang wachten voordat je wapen inlevert tijdens een rip-actie. Je dient je wapen direct in te leveren zodra dat wordt gezegd je probeert haast tot geen tijd te rekken. Je geeft uiteraard om je leven.
 
 ### Artikel 110.OW - Benen schieten
-1. Zodra je in je benen word geschoten kan je 20 seconden je wapen niet trekken, dit betekent dat je wel mag weg lopen en dus niet hoeft te zitten.
+1. Zodra je in je benen word geschoten kan je 7 seconden je wapen niet trekken, dit betekent dat je wel mag weg lopen en dus niet hoeft te zitten.
 
 ### Artikel 111.OW - Gangkluis stelen
 Het stelen uit en gangkluis terwijl dit niet van jouw is, is NIET toegestaan.
