@@ -500,6 +500,7 @@ F# Algemene Plaatselijke Verordening Amersfoort
 ### Artikel 43 - Wapenlijst ticket
 1. Het is verplicht om een wapenlijst ticket aan te maken als je een wapen koopt van een burger.
 2. Het is verplicht om een wapenlijst ticket aan te maken als je een burger ript!
+3. Vanaf heden hoef je geen wapenlijst-ticket meer te openen voor melee-wapens.
 3. Het is verplicht dat je gaat clippen tijdens het koop procedure!
 4. Het is verboden om een foto als bewijs te laten zien! 
 5. Je bent verplicht om de wapenlijst van de tegenpartij te vragen.
