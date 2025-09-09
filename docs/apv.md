@@ -326,6 +326,8 @@ F# Algemene Plaatselijke Verordening Amersfoort
 5. Iemand vermoorden omdat hij niet wilt “Zingen” / “Blaffen” wordt dergelijk gezien als RDM.
 6. Het willekeurig vermoorden van spelers zonder enige geldige reden.
 7. Zodra de shootout voorbij is (dus niet meer geschoten wordt) en persoon heeft zijn handen omhoog is het niet toegestaan om hem/haar af te schieten.
+8. Het is verboden inwoners dood te schieten uit een voertuig / motor.
+9. Je mag iemand alleen vanuit een voertuig doodschieten als je in een schietgevecht met die persoon zit, de banden van zijn voertuig lek zijn en hij geen andere uitweg meer heeft waardoor hij in zijn voertuig duikt.
 
 
 ### **Artikel 22.2 - RDM (Politie)**
