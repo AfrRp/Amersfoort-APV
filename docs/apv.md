@@ -327,14 +327,15 @@ F# Algemene Plaatselijke Verordening Amersfoort
 6. Het willekeurig vermoorden van spelers zonder enige geldige reden.
 7. Zodra de shootout voorbij is (dus niet meer geschoten wordt) en persoon heeft zijn handen omhoog is het niet toegestaan om hem/haar af te schieten.
 8. Het is verboden inwoners dood te schieten uit een voertuig / motor.
-9. Je mag iemand alleen vanuit een voertuig doodschieten als je in een schietgevecht met die persoon zit, de banden van zijn voertuig lek zijn en hij geen andere uitweg meer heeft waardoor hij in zijn voertuig duikt.
+9. Je mag iemand alleen vanuit een voertuig doodschieten als je in een schietgevecht met die persoon zit, de banden van zijn voertuig lek zijn en hij geen andere uitweg meer heeft waardoor hij in zijn voertuig duikt. (dit geldt enkel voor crimineel & niet voor politie.)
 
 
-### **Artikel 22.2 - RDM (Politie)**
+### **Artikel 22.2 - RDM (Politie / Kmar)**
 1. Het is niet toegestaan om Politie gelijk dood te schieten wanneer ze niet zijn uitgestapt met een vuurwapen. (dus niet meteen dood schieten wanneer ze aankoppelen)
       - Dit komt te vervallen als je in een ''shootout'' zit en je meerdere keren op elkaar bent uitgestapt.
 2. Wanneer het mogelijk is om de communicatie/wapenriem af te pakken van een agent is het niet toegestaan om deze te finishen. (of dit nu binnen of buiten de 10mtr is finishen is niet toegestaan)
 3. Het is niet toegestaan om bewust te wachten op een scenario waar niets meer te doen is of bewust in de lucht te schieten om een shootout aan te gaan met politie om deze dan dood te schieten dit wordt gezien als RDM.
+4. Het is niet toegestaan in geen enkele situatie Politie lid / Kmar lid doodt te schieten uit voertuig. (Of ze nou eerder zijn uitgestapt ja of nee.)
 
 
 | Straf |||
