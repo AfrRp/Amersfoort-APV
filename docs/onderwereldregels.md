@@ -248,6 +248,10 @@ Wordt deze stap overgeslagen, kan de geripte persoon een refund aanvragen door e
    - Het moet allemaal in hetzelfde scenario gebeuren.
    - Je mag geen andere agenten gijzelen om het wapen terug te eisen, het moet echt via dezelfde agent teruggeript worden.
 
+### Artikel 124.OW Prijzen.
+
+1. Het is niet toegestaan om boven de max inkoop prijs & onder de inkoop prijs wapens & ammo te verkopen.
+
 
 ### Artikel 125.OW - Massagijzeling
 1. Tijdens een RP scenario mogen er maximaal 7 personen worden gegijzeld.
