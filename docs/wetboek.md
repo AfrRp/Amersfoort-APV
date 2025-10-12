@@ -706,4 +706,4 @@
 | Binnenwater     | Rivieren, kanalen en meren zonder directe verbinding met de open zee/oceaan, die voor schepen en/of boten bevaarbaar zijn |
 
 ---------------------
-*Wetboek Amersfoort is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersfoort”, opgemaakt door Kenn, Dominique & Joostt.*
+*Wetboek Amersfoort is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersfoort”, opgemaakt door Dominique & Joostt.*
