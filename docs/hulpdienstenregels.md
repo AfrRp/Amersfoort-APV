@@ -198,7 +198,7 @@ Aan de volgende regels dient een crimineel zich te houden tijdens de roleplay al
 2. Als een Crimineel ervoor kiest om deel te nemen aan een scenario als advocaat dient hij ten alle tijden **zonder** vuurwapen te komen (HB is nog steeds een greenzone) en mee te werken aan de RP tussen de agent en de verdachte.
 
 ---------------------
-*"APV" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersfoort”, opgemaakt door Kenn, Dominique & Joostt.
+*"APV" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersfoort”, opgemaakt door Dominique & Joostt.
 
 
 
