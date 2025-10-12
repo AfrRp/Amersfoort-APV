@@ -25,4 +25,4 @@ Amersfoort heeft veschillende discord servers die goed gekeurd zijn door de Hoge
 | Amersfoort Overheid | Overheids discord server van Amersfoort | [Uitnodiging](https://discord.gg/afroverheid) |
 
 ---------------------
-*De Hoofd Pagina is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersfoort”, opgemaakt door Kenn, Dominique & Joostt.
+*De Hoofd Pagina is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersfoort”, opgemaakt door Dominique & Joostt.
