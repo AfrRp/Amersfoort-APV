@@ -98,6 +98,7 @@ F# Algemene Plaatselijke Verordening Amersfoort
 3. Deze regel geldt ook voor de Discord cliënt zelf, dus gebruik van clients als Better Discord is niet toegestaan.
 4. De hoge raad kan na het zien van eventueel beeldmateriaal een stemmingsronde houden om te beslissen of iemand gebruikt heeft gemaakt van software/hulpmiddelen (cheats) van derde partijen.
 5. Combatpacks zijn niet toegestaan, bijvoorbeeld minder bosjes of andere zaken die in het voordeel zijn van de speler.
+6. Het is niet toegestaan om cheats op jou pc te hebben staan in welke form dan ook.
 
 
 | Straf | Categorie 10 |
