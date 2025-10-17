@@ -336,11 +336,12 @@ Je moet minimaal 10 minuten wachten op de locatie of er Politie of Kmar eenheden
 
 1. Als je tijdens een scenario je vriend inculsief wapen wilt terug eisen, gelden de volgende regels:
 	- Het is alleen mogelijk om je vriend terug te krijgen door het voertuig die weg rijd vanaf het senario waarin hij/zij word vervoerd te counteren met minimaal 2 vuurwapens!
-	- LET OP! Dit politie voertuig moet minimaal 200 meter van het originele senario verwijderd zijn voordat je deze mag counteren! 
+	- Je mag pas counteren als het busje (met de aangehouden persoon) minimaal 200 meter van de oorspronkelijke locatie is verplaatst.
 3. Wanneer een crimineel op het politiebureau zit is het toegestaan om op een andere plek (dus niet bij hb). één scenario te starten om je collega vrij te krijgen.
 	- Hiervoor heb je minimaal 5 hostages nodig, waarvan één agent.
 	- Hier mag je enkel jou vriend vrij eisen en niet zijn wapen.
 4. Het is verplicht voor de agent die een verdachte vervoert ook het inbeslaggenomen vuurwapen/slagwapen opzak te hebben.
+5. Het is niet toegestaan om het busje te counteren of enige actie te ondernemen zodra het busje zich op de parkeerplaats bevindt.
 
 ### Artikel 135.0W Gijzeling
 
