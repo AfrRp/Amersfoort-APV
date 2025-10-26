@@ -36,7 +36,7 @@ Geblindeerde ramen zijn geen geldige reden om iemand te rippen.
 6. Om iemand te rippen moet je altijd een video-opname (clip) hebben die laat zien dat de persoon voldoet aan een van de bovenstaande regels. Deze clip mag maximaal 6 uur oud zijn.
 7. Een persoon kan alleen worden geript als binnen een uur na aankomst op het eiland kan worden vastgesteld dat hij of zij daar is geweest. Dit moet gebeuren aan de hand van 8. een ID-kaart en een herkenbare outfit. Na dit uur vervalt de mogelijkheid om de persoon te rippen.
 8. Zodra jij iemand spot met een vuurwapen en hem achtervolgt voor 4/5 bochten en/of 2 minuten, heeft de persoon recht om op jou te rippen.
-9. Op het moment dat jij 3 minuten rondhangt omtrent een scenario waar geschoten is is het toegestaan om persoon te rippen.
+9. Op het moment dat jij 2 minuten rondhangt omtrent een scenario waar geschoten is is het toegestaan om persoon te rippen.
 Indien dit het geval is vervallen de normale ripregels hiervan dien jij ten alle tijden bewijs aan te kunnen tonen via een clip.
 
 
