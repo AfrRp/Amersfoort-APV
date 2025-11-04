@@ -34,7 +34,7 @@ F# Algemene Plaatselijke Verordening Amersfoort
   - **Categorie 4**  - Een waarschuwing + 125 taken.
   - **Categorie 5**  - Een waarschuwing + 150 taken.
   - **Categorie 6**  – Een waarschuwing + 175 taken.
-  - **Categorie 7**  – Een waarschuwing + 250 taken.
+  - **Categorie 7**  – Een waarschuwing + 200 taken.
   - **Categorie 8**  – Een ban van 2 dagen.
   - **Categorie 9**  – Een ban van 1 week + 175 taken.
   - **Categorie 10**  – Een permanente ban.
@@ -237,7 +237,7 @@ F# Algemene Plaatselijke Verordening Amersfoort
 	- Een Tazer word te alle tijden gezien als een geweldsmiddel ongeacht welk dreigings niveau op dat moment van kracht is.
 	- Als persoon in een auto zit en er word een tazer op hem/haar gericht (Binnen 10 meter) dient persoon ten alle tijden mee te werken.
    
-| Straf | Catogorie 6 | Wapeninname |
+| Straf | Catogorie 7 | Wapeninname |
 |---|---|---|
 
 ### Artikel 12 – Microfoon / stemvervormer
