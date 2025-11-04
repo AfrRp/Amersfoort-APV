@@ -218,6 +218,7 @@ F# Algemene Plaatselijke Verordening Amersfoort
     * zodra iemand een vuurwapen op je richt binnen 10 meter en er geen beschutting is, blijf je staan, werk je mee en val je deze persoon niet aan.
     * Zodra iemand een steek- of slagwapen binnen armlengte afstand van je trekt dan werk je mee, doe je dit niet ben je niet zuinig met je leven aangezien je dat bewust het risico neemt neergestoken of neergeslagen te worden. (Dus je kan niet met een steekwapen iemand uit een auto handsuppen dit valt niet onder No Value Of Life)
     * Als er een wapen op je staat vuur/slag/steek wapen is het niet toegestaan om in je Porto te praten/gebruiken of je telefoon te gebruiken.
+	* Het is niet toegestaan op het moment dat je benen wordt geschoten gaat tijdrekken ''ik heb pijn'' in zulke gevallen je dient per direct mee te werken en je wapen / spullen in te leveren die van je gevraagd worden.
     * Met een helikopter vlak boven de grond zweven om goederen en/of personen te transporteren.
     * Elke andere vorm waarmee je bewust je eigen leven in een té groot gevaar brengt valt onder no value of life, dus gebruik je gezonde verstand om de situatie in te schatten.
     * Zodra een persoon een wapen in zijn hand heeft en jij gaat hem proberen te boeien of richting hem te rennen word dit gezien als no value of life. Wanneer jij van dat persoon weet dat hij/zij een vuur-, steek- of slagwapen op zak heeft, zal je ervoor moeten zorgen hem/haar te overmeesteren door enige vorm van bedreigende middelen toe te passen.
@@ -328,7 +329,7 @@ F# Algemene Plaatselijke Verordening Amersfoort
 6. Het willekeurig vermoorden van spelers zonder enige geldige reden.
 7. Zodra de shootout voorbij is (dus niet meer geschoten wordt) en persoon heeft zijn handen omhoog is het niet toegestaan om hem/haar af te schieten.
 8. Het is verboden inwoners dood te schieten uit een voertuig / motor.
-9. Je mag iemand alleen vanuit een voertuig doodschieten als je in een schietgevecht met die persoon zit, de banden van zijn voertuig lek zijn en hij geen andere uitweg meer heeft waardoor hij in zijn voertuig duikt. (dit geldt enkel voor crimineel & niet voor politie.)
+9.Je mag alleen mensen doodschieten die in een auto zitten als jij persoon hebt zien schieten en je hem 0x uit het zicht bent verloren. Verlies jij persoon wel uit het zicht, heb jij geen reden meer om dodelijk vuur te openen.
 
 
 ### **Artikel 22.2 - RDM (Politie / Kmar)**
