@@ -303,7 +303,7 @@ F# Algemene Plaatselijke Verordening Amersfoort
   * Politie HB (stad) en Politie HB (sandy)
   * Ziekenhuis
   * Wegenwacht (Tenzij de persoon een motorhelm, Masker, Bulletproofvest of Holster draat. Je wacht de persoon BUITEN op.)
-  * Moskee (Het is hier niet toegestaan om Criminele Activiteiten uit te voeren en te schelden met wat voor ziektes etc dan ook)
+  * Basic-Fit 
   * Casino        
 
 | Straf | Categorie 2 |
