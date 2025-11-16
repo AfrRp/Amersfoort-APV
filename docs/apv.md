@@ -184,11 +184,9 @@ F# Algemene Plaatselijke Verordening Amersfoort
 7. Hij/zij die tijdens een roleplay scenario uitlogt of dood gaat met een wapen en de stad verlaat zal de helft van de wapens worden ingenomen.
 8. Hij/zij die tijdens een roleplay scenario uitlogt of dood gaat met een wapen en de stad verlaat zal de volledige wapenlijst gecleared worden.
 
-| Straf | Straf | Wapenlijst clear |
-|---|---|---|
-| 1e Combat-logging | Categorie 6 | Ban voor het wapen innemen. |
-| 2e Combat-logging | Categorie 6 | Ban voor halve wapenlijst innemen. |
-| 3e Combat-logging | Categorie 6 | Ban voor hele wapenlijst innemen. |
+   **| Straf | Categorie 6 |**
+|---|---|Op basis van het aantal waarschuwingen dat je hebt en je gedrag binnen de stad, wordt bepaald hoeveel wapens er per combatlog worden ingenomen, dit zal worden besloten door Hoge Raad+
+
 
 ### Artikel 9.2 - Combat-stashen
 1. Hij/zij die tijdens een roleplay scenario, zijn wapen binnen de 10 minuten na gebruik weglegt.
