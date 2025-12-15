@@ -366,6 +366,14 @@ Je moet minimaal 10 minuten wachten op de locatie of er Politie of Kmar eenheden
 
 1. Wanneer je lid wordt van een gang, is het verplicht om in het Porto OOC-kanaal te zitten zodra je de stad betreedt. Dit geldt ook als je de Proeftijd-rol hebt gekregen in de Onderwereld Discord. Deze regel is niet van toepassing als je langer dan 15 minuten AFK in de stad staat.
 
+### Artikel 138.OW Holden
+
+1. Holden is alleen toegestaan onder de volgende omstandigheden:
+* Wanneer jij een overval doet en je word gecounterd is het toegestaan om te holden.
+
+2. **Wanneer is holden niet toegestaan:**
+* Als jij achtervolgt word en je gaat een gebouw in (denk aan een winkeltje, lester's huis, strandhuis etc.) om dat te holden.
+
 
 ---------------------
 *"APV" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersfoort”, opgemaakt door Dominique & Joostt.
