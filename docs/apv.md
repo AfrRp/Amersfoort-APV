@@ -556,6 +556,15 @@ Als je refund hier niet aan voldoet, staat een stafflid in zijn/haar recht om je
 | Straf | Categorie 3 |
 |---|---|
 
+### Artikel 48 – Toxic Gedrag 
+
+1. Extreem toxic gedrag is niet toegestaan binnen de stad. Hieronder vallen onder andere vip-death-messages, montages en vergelijkbare uitingen. 
+2. Dit geldt zowel voor content die buiten de stad wordt geplaatst als voor uitspraken, opmerkingen of provocerend gedrag dat in-game wordt geuit.
+
+
+| Straf | Categorie 5 |
+|---|---|
+
 
 
 ---------------------
