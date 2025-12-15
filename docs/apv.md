@@ -88,6 +88,7 @@ F# Algemene Plaatselijke Verordening Amersfoort
     * Nadat je in je benen bent geschoten, kan je je wapen niet trekken en dien je als er een wapen op je staat je handen omhoog te doen en mee te werken.
     * Het is niet toegestaan badslippers te dragen tijdens roleplay dit mag enkel in het water.
     * Het is niet toegestaan om van de eiland brug af te springen (Dit wordt gezien als onrealistisch)
+    * Het is niet toegestaan om na een crash door te rijden op het moment dat je gecrashed bent ben je verplicht 10 seconden stil te staan en niet uit te stappen.
     
 | Straf | Categorie 2 |
 |---|---|
