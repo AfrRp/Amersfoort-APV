@@ -159,12 +159,12 @@ Het stelen uit en gangkluis terwijl dit niet van jouw is, is NIET toegestaan.
    - Je dient eerst te zorgen dat jou ingame rollen niet meer hetzelfde zijn als degene die jij wilt rippen.
 
 ### Artikel 117.OW - Aantal gangmembers
-1. Een gang mag een maximaal aantal van 20 members hebben en 5 meelopers.
+1. Een gang mag een maximaal aantal van 22 members hebben en 8 meelopers.
    - Een members heeft een rol ingame **en** in de onderwereld discord, en een meeloper **alleen** in de discord.
-2. Een gang mag maximaal 5 staffleden **inclusief** 1 boss hebben (4 staff members en **1** boss die staff is).
+2. Een gang mag maximaal 7 staffleden **inclusief** 2 bosses.
 
 ### Artikel 118.OW - Voertuiggebruik
-1. Het pitten boven 100km/h is niet toegestaan, tenzij je een speciale eenheid bent van de Politie Deze mogen pitten onder de 150km/h (Hieronder verstaan we ook het breakjacken van een voertuig)
+1. Het pitten boven 100km/h is niet toegestaan, tenzij je een speciale eenheid bent van de Politie / Kmar Deze mogen pitten onder de 150km/h dit valt onder UNM, A6 & DSI voertuigen.
 2. Een groter klasse voertuig pitten is niet toegestaan, ongeacht de snelheid.
 3. Een voertuig mag geen hogere categorie pitten of brake checken.
    - 1ste categorie: Motorvoertuigen;
