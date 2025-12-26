@@ -60,6 +60,7 @@ Indien dit het geval is vervallen de normale ripregels hiervan dien jij ten alle
 11. Het is niet toegestaan om een crimineel van een andere groepering te rippen als hij of zij aangehouden wordt door politie. (Je mag enkel alleen je eigen mensen terugeisen)
 12. Je mag niet in een appartement je wapens of je drugs verhandelen. Dit is niet toegestaan
 13. Er mag ten alletijden maximaal 1 Agent hostage genomen worden.
+Het moment dat er minder dan 20 agenten zijn in F10 mag je maximiaal 1 agent hostage pakken, ookal zijn ze koppel pak je er een en pak je van de andere comms af. Het moemnt dat er meer dan 20 agenten zijn mag je maximaal 2 agenten pakken (een koppel)
 14. Zodra je ervoor kiest om met een groot wapen te spelen zonder tas, wordt het wapen zichtbaar op de rug, wat het risico met zich meebrengt dat je geript mag worden. (met een tas om is dit niet het geval) 
 15. Als je tijdens een hostage situatie begint te schieten dan mag de politie ingrijpen door aanhoudingsvuur te geven
 
@@ -74,7 +75,6 @@ Indien dit het geval is vervallen de normale ripregels hiervan dien jij ten alle
 
 ### Artikel 103.2.OW - Redzone
 * Eiland
-* Verwerk linker snelweg (postcode 427, inclusief parking)
 
 ### Artikel 104.OW - Een ganghuis binnenvallen
 1. Het binnenvallen van gangterrein/huizen is toegestaan onder de volgende voorwaardes:
@@ -135,7 +135,7 @@ Iemand laten instappen in je auto, en vervolgens /me boeit vast + pakt coms af.
 1. Zodra je in je benen word geschoten kan je 7 seconden je wapen niet trekken, dit betekent dat je wel mag weg lopen en dus niet hoeft te zitten.
 
 ### Artikel 111.OW - Gangkluis stelen
-Het stelen uit en gangkluis terwijl dit niet van jouw is, is NIET toegestaan.
+Het stelen uit een gangkluis terwijl dit niet van jouw is, is NIET toegestaan.
 
 ### Artikel 112.OW - Wapen Trekken/Gebruiken 
 1. Hij/zij die zijn wapen gebruikt en/of trekt dient minimaal 10 minuten te wachten voordat hij/zij mag uitloggen.
