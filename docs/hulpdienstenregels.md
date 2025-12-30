@@ -197,11 +197,11 @@ Aan de volgende regels dient een crimineel zich te houden tijdens de roleplay al
 1. Als een Crimineel ervoor kiest om deel te nemen aan een scenario als advocaat mag hij nadat hij het HB uitloopt de komende 10 minuten niet meer aankoppelen aan dit zelfde scenario met een vuurwapen (om bijvoorbeeld zijn of haar vriend/gangmember te bevrijden met een vuurwapen)
 2. Als een Crimineel ervoor kiest om deel te nemen aan een scenario als advocaat dient hij ten alle tijden **zonder** vuurwapen te komen (HB is nog steeds een greenzone) en mee te werken aan de RP tussen de agent en de verdachte.
 
-### Artikel 212.HD - Combat gedrag (nieuw artikel)
+### Artikel 213.HD - Combat gedrag (nieuw artikel)
 1. Het gebruik maken van een combat-rol is niet toegestaan, of dit nou op het HB is of in een shootout.
 2. Het finishen van criminelen is niet toegestaan, dit komt te vervallen op het moment dat er meerdere male op elkaar word uitgestapt of als er een verschil in de partijen zit van 4 criminelen is het toegestaan voor een agent om noodweer toe te passen!
 
-### Artikel 213.HD - Noodweer (nieuw artikel)
+### Artikel 214.HD - Noodweer (nieuw artikel)
 Wanneer bevind een agent zich in noodweer?
 1. Wanneer er een actieve shootout is tussen politie en criminelen.
 2. Wanneer er meerdere malen op elkaar word uitgestapt
