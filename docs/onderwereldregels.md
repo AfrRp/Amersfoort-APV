@@ -374,6 +374,15 @@ Je moet minimaal 10 minuten wachten op de locatie of er Politie of Kmar eenheden
 2. **Wanneer is holden niet toegestaan:**
 * Als jij achtervolgt word en je gaat een gebouw in (denk aan een winkeltje, lester's huis, strandhuis etc.) om dat te holden.
 
+### Artikel 139.OW Dashboard en Kofferbak
+
+1. Het is niet toegestaan om iets uit een dashboard of kofferbak te stelen behalve als het volgende van toepassing is:
+	- Je een ripreden hebt op persoon. (kijk Artikel 102.OW - Rippen)
+	- Je een wapenlijst van persoon kan pakken. (dus je moet persoon gehandsupped hebben)
+
+Alleen wanneer allebij de bovenstaande criteria een feit zijn is het toegestaan om spullen uit een voertuig te halen!
+
+2. Het is niet toegestaan om wapens / andere items te stelen uit een voertuig als je geen wapenlijst kan pakken van persoon. (dus het random checken van dashboards en kofferbakken en dingen eruit stelen is niet toegestaan).
 
 ---------------------
 *"APV" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersfoort”, opgemaakt door Dominique & Joostt.
