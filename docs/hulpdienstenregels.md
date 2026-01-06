@@ -108,7 +108,7 @@ Medische hulp dient ten aller tijden geboden te worden wanneer dit noodzakelijk 
 
 ### Artikel 206.HD - Benen schieten
 
-- Zodra je in je benen word geschoten kan je 20 seconden je wapen niet trekken, dit betekent dat je wel mag weg lopen en dus niet hoeft te zitten.
+- Zodra je in je benen word geschoten kan je 5 seconden je wapen niet trekken, dit betekent dat je wel mag weg lopen en dus niet hoeft te zitten.
 
 ### Artikel 207.HD - Volgorde Aanhouding
 De senarios hieronder zijn richtlijnen de politie mag dus ten alle tijden hier van afwijken mochten zij dit nodig achten.
