@@ -304,6 +304,8 @@ F# Algemene Plaatselijke Verordening Amersfoort
   * Wegenwacht (Tenzij de persoon een motorhelm, Masker, Bulletproofvest of Holster draat. Je wacht de persoon BUITEN op.)
   * Basic-Fit 
   * Casino        
+  * Kleding winkel(s)
+  * Mechanic shop's
 
 | Straf | Categorie 2 |
 |---|---|
