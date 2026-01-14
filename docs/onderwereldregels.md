@@ -208,6 +208,7 @@ Het afnemen van items (wapens, drugs, etc.) mag **alleen**:
    - Zodra de politie is aangekomen is het counteren niet meer toegestaan.
    - Het is ook niet toegestaan om in de buurt te zijn of als de achtervolging is gestart daarin mee te gaan. (Dit geldt ook voor je eigen gangleden)
 2. Het is niet toegestaan om tijdens een politie achtervolging aan te koppelen, Of dit nou in het begin of aan het eind van de achtervolging is.
+3. Het is niet toegestaan om grote bank te counteren, ookal is politie niet aangekoppeld.
 
 
 
