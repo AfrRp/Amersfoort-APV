@@ -165,19 +165,20 @@ Het stelen uit een gangkluis terwijl dit niet van jouw is, is NIET toegestaan.
 
 ### Artikel 118.OW - Voertuiggebruik
 1. Het pitten boven 100km/h is niet toegestaan, tenzij je een speciale eenheid bent van de Politie / Kmar Deze mogen pitten onder de 150km/h dit valt onder UNM, A6 & DSI voertuigen.
-2. Een groter klasse voertuig pitten is niet toegestaan, ongeacht de snelheid.
-3. Een voertuig mag geen hogere categorie pitten of brake checken.
+2. Offroad is pitten boven 70km/h niet toegestaan. Dit geld voor iedereen.
+3. Een groter klasse voertuig pitten is niet toegestaan, ongeacht de snelheid.
+4. Een voertuig mag geen hogere categorie pitten of brake checken.
    - 1ste categorie: Motorvoertuigen;
    - 2de categorie: Sportauto's en hypercars;
    - 3de categorie: Personenauto's zoals Sedan en Coupes;
    - 4de categorie: SUV's;
    - 5de categorie: Bussen en vrachtwagens;
-4. Brake checken is toegestaan indien dit realistisch blijft. Wanneer jij iemand brake checkt is dit op eigen risico op een eventuele crash.
-5. Off-road banden zijn puur cosmetisch en hebben geen effect op de weg.
-6. Het is op geen enkele manier toegestaan om een motor te pitten of brakechecken.
-7. Het is niet toegestaan om gebouwen te betreden met voertuigen die daar niet voor bedoeld zijn.
-8. Het is niet toegestaan om een lesauto of CBR auto te gebruiken voor andere doeleinden dan de lesronde te rijden. Je mag dus niet van de bepaalde route afwijken.
-9. De kgsubmarin/urus die onder water kan mag niet gebruikt worden in een achtervolging.
+5. Brake checken is toegestaan indien dit realistisch blijft. Wanneer jij iemand brake checkt is dit op eigen risico op een eventuele crash.
+6. Off-road banden zijn puur cosmetisch en hebben geen effect op de weg.
+7. Het is op geen enkele manier toegestaan om een motor te pitten of brakechecken.
+8. Het is niet toegestaan om gebouwen te betreden met voertuigen die daar niet voor bedoeld zijn.
+9. Het is niet toegestaan om een lesauto of CBR auto te gebruiken voor andere doeleinden dan de lesronde te rijden. Je mag dus niet van de bepaalde route afwijken.
+10. De kgsubmarin/urus die onder water kan mag niet gebruikt worden in een achtervolging.
 
 ### Artikel 119.OW - Fouilleren  
 
