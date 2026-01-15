@@ -165,7 +165,7 @@ Het stelen uit een gangkluis terwijl dit niet van jouw is, is NIET toegestaan.
 
 ### Artikel 118.OW - Voertuiggebruik
 1. Het pitten boven 100km/h is niet toegestaan, tenzij je een speciale eenheid bent van de Politie / Kmar Deze mogen pitten onder de 150km/h dit valt onder UNM, A6 & DSI voertuigen.
-2. Offroad is pitten boven 70km/h niet toegestaan. Dit geld voor iedereen.
+2. Offroad is pitten boven 70km/h niet toegestaan. Dit geld voor zowel onderwereld als overheid.
 3. Een groter klasse voertuig pitten is niet toegestaan, ongeacht de snelheid.
 4. Een voertuig mag geen hogere categorie pitten of brake checken.
    - 1ste categorie: Motorvoertuigen;
