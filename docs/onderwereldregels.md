@@ -90,6 +90,9 @@ Het moment dat er minder dan 20 agenten zijn in F10 mag je maximiaal 1 agent hos
 3. Op het eiland geldt Artikel 22 - RDM (Lid 5.) niet. Het moment dat jij je wapen trekt en er is geen shootout, mag jij alsnog worden afgeschoten aangezien het eiland op eigen risico is.
 4. De eiland-brug telt niet als eiland. Pas als een persoon volledig van de eiland-brug af is en het eiland heeft betreden, heb jij een reden.
 5. Wanneer jij iemand op het eiland hebt gespot en hij het eiland verlaat, mag jij de achtervolging inzetten en heb jij nog steeds een ripreden.
+6. Het is toegestaan om de gehele pluk met je groepering over te nemen.
+7. Het is niet toegestaan om te campen bij de pluk.
+8. Het is toegestaan om te rippen op pluk, verwerk & verkoop.
 
 ### Artikel 106.OW -  Campen van ganghuizen
 * Het campen van ganghuizen is niet toegestaan
