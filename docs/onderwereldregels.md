@@ -83,7 +83,7 @@ Het moment dat er minder dan 20 agenten zijn in F10 mag je maximiaal 1 agent hos
 **Bij beide van bovenstaande voorwaardes is het verplicht om een clip aan te kunnen tonen. Heb je geen clip zal het scenario worden afgekeurd, en zal het gezien worden als een onterechte inval waar een gangstrike en level omlaag op staat.**
 2. Het binnenvallen van een gang die bezig is met een officiële gangjob is **niet** toegestaan.
    
-### **Artikel 105.OW - Eiland **
+### Artikel 105.OW - Eiland
 
 1. Op het eiland mogen alle onderwereld gerelateerde items en communicatie worden geript zonder reden.
 2. Op het eiland mag jij personen vermoorden als er een geldige reden voor is (bijv. de persoon verlaat het eiland niet terwijl jij dit hem wel hebt vermeld).
