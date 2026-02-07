@@ -387,6 +387,11 @@ Alleen wanneer allebij de bovenstaande criteria een feit zijn is het toegestaan 
 
 2. Het is niet toegestaan om wapens / andere items te stelen uit een voertuig als je geen wapenlijst kan pakken van persoon. (dus het random checken van dashboards en kofferbakken en dingen eruit stelen is niet toegestaan).
 
+### Artikel 140.OW Transport Counteren
+1. Vanaf het moment dat het transport in zicht is is het **niet** toegestaan om te counteren.
+	- Het moment dat het transport nog niet in zicht is en je ziet wapens is het toegestaan om te counteren.
+	- Het moment dat de gevangenen is bevrijd door de groepering van de counter mag je 200 meter verderop die groepering counteren.
+
 ---------------------
 *"APV" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersfoort”, opgemaakt door Dominique & Joostt.
 
