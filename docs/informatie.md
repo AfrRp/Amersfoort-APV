@@ -55,7 +55,7 @@ Proberen ‘’loopholes’’ te vinden in de regels en/of de regels te misbrui
 ### **Artikel 14. INF - Staffzaak**
 
 1. Het is niet toegestaan als je nog in een roleplay scenario zit een staffzaak te starten.
-2. Mocht het scenario klaar zijn wacht je minimaal **5** minuten dan mag je een staffzaak starten.
+2. Mocht het scenario klaar zijn wacht je minimaal **5 minuten** dan mag je een staffzaak starten.
 
       
   **- Vraag wel eerst toestemming van je ouders als je jonger bent dan 18 jaar om eventueel een donatie te doen.** 
