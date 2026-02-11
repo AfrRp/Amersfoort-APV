@@ -373,6 +373,7 @@ Je moet minimaal 10 minuten wachten op de locatie of er Politie of Kmar eenheden
 
 1. Holden is alleen toegestaan onder de volgende omstandigheden:
 * Wanneer jij een overval doet en je word gecounterd is het toegestaan om te holden.
+* Op eiland is het toegestaan om te holden. (het is niet toegestaan om eiland-brug te holden)
 
 2. **Wanneer is holden niet toegestaan:**
 * Als jij achtervolgt word en je gaat een gebouw in (denk aan een winkeltje, lester's huis, strandhuis etc.) om dat te holden.
