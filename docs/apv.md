@@ -361,13 +361,13 @@ F# Algemene Plaatselijke Verordening Amersfoort
 
 1. Scammen bij een Discord-deal is ten strengste verboden.
 	- Zodra enig onderdeel van de afspraak (prijs, item, voorwaarden, foto van het item / de items) via Discord is besproken/verstuurd, valt de volledige deal onder scam-verbod.
-2. Het betalen van onderwereld gerelateerde items met witgeld. (bekijk artikel 141.OW Witgeld Transacties)
+2. Het betalen van onderwereld gerelateerde items met witgeld. (bekijk artikel 141.OW Witgeldtransacties)
 3. Scammen bij een volledig ingame afgesproken deal is toegestaan, tenzij één van de uitzonderingen onder 24.2 van toepassing is.
 
 ### Artikel 24.2 Uitzonderingen – Scammen verboden
 1. Scammen is niet toegestaan indien:
 	- De transactie plaatsvindt op een officieel gangterrein.
-	- De betaling geheel of gedeeltelijk met witgeld plaatsvindt. (bekijk artikel 141.OW Witgeld Transacties)
+	- De betaling geheel of gedeeltelijk met witgeld plaatsvindt. (bekijk artikel 141.OW Witgeldtransacties)
 	- De deal (gedeeltelijk) via Discord is besproken. (Bekijk artikel 24.1.1)
 	- Er sprake is van onderwereld-gerelateerde items die met witgeld worden verkocht. (Dit is altijd verboden en zal direct gestraft worden met een zware sanctie)
 
