@@ -35,10 +35,11 @@ F# Algemene Plaatselijke Verordening Amersfoort
   - **Categorie 5**  - Een waarschuwing + 150 taken.
   - **Categorie 6**  – Een waarschuwing + 175 taken.
   - **Categorie 7**  – Een waarschuwing + 200 taken.
-  - **Categorie 8**  – Een ban van 2 dagen.
-  - **Categorie 9**  – Een ban van 1 week + 175 taken.
-  - **Categorie 10**  – Een permanente ban.
-  - **Categorie 11** – Een permanente ban + accountwipe.
+  - **Categorie 8**  – Een ban van 1 week + 175 taken.
+  - **Categorie 9**  – halve wapenlijstclear + 200 taken. 
+  - **Categorie 10** – Volledige wapenlijstclear + 250 taken.
+  - **Categorie 11** – Een permanente ban.
+  - **Categorie 12** – Een permanente ban + accountwipe.
 
  2. De straffen van categorie 5, 6 en 7 kunnen preventief worden uitgedeeld wanneer sprake is van een overtreding op heterdaad. De opgelegde straf zal naderhand besproken worden binnen het managagement team en waar nodig worden bijgesteld. Dit om eventuele verdere schade te beperken terwijl er gekeken wordt wat er precies gebeurt is.
 3. Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlagen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie. Wanneer je het niet eens bent met een oordeel van een stafflid kan je hiervoor een ticket aanmaken.
