@@ -393,7 +393,7 @@ Alleen wanneer allebij de bovenstaande criteria een feit zijn is het toegestaan 
 	- Het moment dat het transport nog niet in zicht is en je ziet wapens is het toegestaan om te counteren.
 	- Het moment dat de gevangenen is bevrijd door de groepering van de counter mag je 200 meter verderop die groepering counteren.
 	
-### Artikel 141.OW Witgeld Transacties
+### Artikel 141.OW Witgeldtransacties
 
 1. Alle onderwereld gerelateerde spullen dienen met zwartgeld betaald te worden. Hieronder valt het volgende:
 	- Wapens
