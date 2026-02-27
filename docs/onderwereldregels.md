@@ -254,6 +254,7 @@ Wordt deze stap overgeslagen, kan de geripte persoon een refund aanvragen door e
 ### Artikel 124.OW Prijzen.
 
 1. Het is niet toegestaan om boven de max inkoop prijs & onder de inkoop prijs wapens & ammo te verkopen.
+2. Wanneer jij een wapen boven de max toegestane prijs verkoopt op vip wapenmarkt, zal per direct jouw wapenmarkt licentie worden ingenomen en zal je hier geen refund of compensatie voor ontvangen. 
 
 
 ### Artikel 125.OW - Massagijzeling
