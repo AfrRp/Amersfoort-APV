@@ -400,8 +400,9 @@ F# Algemene Plaatselijke Verordening Amersfoort
 |---|---|
 
 ### Artikel 28 - Jobhoppen
-1. (Ex-)leden van een criminele organisatie dienen minimaal 7 kalenderdagen te wachten nadat ze ontslag hebben genomen/ontslagen voordat zij aangenomen mogen worden bij een overheidsbaan of een andere criminele organisatie.
-2. (Ex-)overheids medewerkers dienen minimaal 7 kalenderdagen te wachten nadat ze ontslag hebben genomen/ontslagen voordat zij aangenomen mogen worden bij een andere overheidsbaan of een criminele organisatie.
+1. (Ex-)leden van een criminele organisatie dienen minimaal 5 kalenderdagen te wachten nadat ze ontslag hebben genomen/ontslagen voordat zij aangenomen mogen worden bij een andere criminele organisatie.
+2. (Ex-)overheids medewerkers dienen minimaal 5 kalenderdagen te wachten nadat ze ontslag hebben genomen/ontslagen voordat zij aangenomen mogen worden bij een andere overheidsbaan.
+3. Vanaf heden is er geen blacklist meer als je van overheid naar onderwereld gaat en omgekeerd.
 
 | Straf | Categorie 3 |
 |---|---|
