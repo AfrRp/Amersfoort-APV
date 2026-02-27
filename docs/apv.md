@@ -36,7 +36,7 @@ F# Algemene Plaatselijke Verordening Amersfoort
   - **Categorie 6**  – Een waarschuwing + 175 taken.
   - **Categorie 7**  – Een waarschuwing + 200 taken.
   - **Categorie 8**  – Een ban van 1 week + 175 taken.
-  - **Categorie 9**  – halve wapenlijstclear + 200 taken. 
+  - **Categorie 9**  – Halve wapenlijstclear + 200 taken. 
   - **Categorie 10** – Volledige wapenlijstclear + 250 taken.
   - **Categorie 11** – Een permanente ban.
   - **Categorie 12** – Een permanente ban + accountwipe.
