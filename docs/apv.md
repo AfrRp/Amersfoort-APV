@@ -373,7 +373,7 @@ F# Algemene Plaatselijke Verordening Amersfoort
 
 ### Artikel 24.3 Aanvullende regels
 1. De volgende aanvullende regels zijn ten allen tijden van toepassing:
-	- Bij gemengde betalingen (zwart + wit) wordt de volledige transactie aangemerkt als witgeldtransactie. Nog steeds geld artikel 141.OW Witgeld Transacties.
+	- Bij gemengde betalingen (zwart + wit) wordt de volledige transactie aangemerkt als witgeldtransactie. Artikel 141.OW Witgeldtransacties blijft van toepassing.
 	- Het gebruik maken van een middleman om deze regels te omzeilen is niet toegestaan.
 	- Wanneer er toch gescammed word op een deal die onder het scam-verbod valt, dien jij te kunnen aantonen waarom deze deal onder het scam-verbod zou moeten vallen. Kun je dit niet, zal de scam ten allen tijden goedgekeurd worden.
 
