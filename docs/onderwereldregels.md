@@ -392,6 +392,20 @@ Alleen wanneer allebij de bovenstaande criteria een feit zijn is het toegestaan 
 1. Vanaf het moment dat het transport in zicht is is het **niet** toegestaan om te counteren.
 	- Het moment dat het transport nog niet in zicht is en je ziet wapens is het toegestaan om te counteren.
 	- Het moment dat de gevangenen is bevrijd door de groepering van de counter mag je 200 meter verderop die groepering counteren.
+	
+### Artikel 141.OW Witgeld Transacties
+
+1. Alle onderwereld gerelateerde spullen dienen met zwartgeld betaald te worden. Hieronder valt het volgende:
+	- Wapens
+	- Ammo
+	- Drugs
+	- Attachments/Camo's
+	- Alle overige onderwereld gerelateerde transacties
+
+2. Wat mag wel met witgeld gekocht worden:
+	- Auto's (dono voertuigen, royalcars voertuigen, giveaway voertuigen en mystery voertuigen mogen nog steeds niet verkocht worden)
+	- Scrap metal
+	- alle niet onderwereld gerelateerde items ingame.
 
 ---------------------
 *"APV" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersfoort”, opgemaakt door Dominique & Joostt.
