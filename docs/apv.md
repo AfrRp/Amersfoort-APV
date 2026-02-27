@@ -359,22 +359,22 @@ F# Algemene Plaatselijke Verordening Amersfoort
 
 ### Artikel 24.1 – Overvallen & Oplichting (Scammen)
 
-Scammen bij een Discord-deal is ten strengste verboden.
-→ Zodra enig onderdeel van de afspraak (prijs, item, voorwaarden, foto van het item / de items) via Discord is besproken/verstuurd, valt de volledige deal onder scam-verbod.
-Het betalen van onderwereld gerelateerde items met witgeld. (bekijk artikel 141.OW Witgeld Transacties)
-Scammen bij een volledig ingame afgesproken deal is toegestaan, tenzij één van de uitzonderingen onder 24.2 van toepassing is.
+1. Scammen bij een Discord-deal is ten strengste verboden.
+	- Zodra enig onderdeel van de afspraak (prijs, item, voorwaarden, foto van het item / de items) via Discord is besproken/verstuurd, valt de volledige deal onder scam-verbod.
+2. Het betalen van onderwereld gerelateerde items met witgeld. (bekijk artikel 141.OW Witgeld Transacties)
+3. Scammen bij een volledig ingame afgesproken deal is toegestaan, tenzij één van de uitzonderingen onder 24.2 van toepassing is.
 
 ### Artikel 24.2 Uitzonderingen – Scammen verboden
-Scammen is niet toegestaan indien:
-- De transactie plaatsvindt op een officieel gangterrein.
-- De betaling geheel of gedeeltelijk met witgeld plaatsvindt. (bekijk artikel 141.OW Witgeld Transacties)
-- De deal (gedeeltelijk) via Discord is besproken. (Bekijk artikel 24.1.1)
-- Er sprake is van onderwereld-gerelateerde items die met witgeld worden verkocht. (Dit is altijd verboden en zal direct gestraft worden met een zware sanctie)
+1. Scammen is niet toegestaan indien:
+	- De transactie plaatsvindt op een officieel gangterrein.
+	- De betaling geheel of gedeeltelijk met witgeld plaatsvindt. (bekijk artikel 141.OW Witgeld Transacties)
+	- De deal (gedeeltelijk) via Discord is besproken. (Bekijk artikel 24.1.1)
+	- Er sprake is van onderwereld-gerelateerde items die met witgeld worden verkocht. (Dit is altijd verboden en zal direct gestraft worden met een zware sanctie)
 
 ### Artikel 24.3 Aanvullende regels
-- Bij gemengde betalingen (zwart + wit) wordt de volledige transactie aangemerkt als witgeldtransactie. Nog steeds geld artikel 141.OW Witgeld Transacties.
-- Het gebruik maken van een middleman om deze regels te omzeilen is niet toegestaan.
-- Wanneer er toch gescammed word op een deal die onder het scam-verbod valt, dien jij te kunnen aantonen waarom deze deal onder het scam-verbod zou moeten vallen. Kun je dit niet, zal de scam ten allen tijden goedgekeurd worden.
+	- Bij gemengde betalingen (zwart + wit) wordt de volledige transactie aangemerkt als witgeldtransactie. Nog steeds geld artikel 141.OW Witgeld Transacties.
+	- Het gebruik maken van een middleman om deze regels te omzeilen is niet toegestaan.
+	- Wanneer er toch gescammed word op een deal die onder het scam-verbod valt, dien jij te kunnen aantonen waarom deze deal onder het scam-verbod zou moeten vallen. Kun je dit niet, zal de scam ten allen tijden goedgekeurd worden.
 
 | Straf | Categorie 3 |
 |---|---|
