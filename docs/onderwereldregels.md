@@ -405,7 +405,7 @@ Alleen wanneer allebij de bovenstaande criteria een feit zijn is het toegestaan 
 2. Wat mag wel met witgeld gekocht worden:
 	- Auto's (dono voertuigen, royalcars voertuigen, giveaway voertuigen en mystery voertuigen mogen nog steeds niet verkocht worden)
 	- Scrap metal
-	- alle niet onderwereld gerelateerde items ingame.
+	- alle niet onderwereld gerelateerde items ingame
 
 ---------------------
 *"APV" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersfoort”, opgemaakt door Dominique & Joostt.
