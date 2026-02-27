@@ -91,6 +91,8 @@ Het moment dat er minder dan 20 agenten zijn in F10 mag je maximiaal 1 agent hos
 4. De eiland-brug telt niet als eiland. Als een persoon over de 2e remblok is (de dichtstbijzijnde bij eiland) is het toegestaan om deze persoon te rippen.
 5. Wanneer jij iemand op het eiland hebt gespot en hij het eiland verlaat, mag jij de achtervolging inzetten en heb jij nog steeds een ripreden.
 6. Het is **niet** toegestaan om te rippen op pluk, verwerk & verkoop.
+7. Wanneer een persoon 2 minuten lang op eiland brug staat, heb jij een ripreden. Je dient dit altijd te kunnen aantonen doormiddel van een clip.
+8. Het is toegestaan om van eiland brug af te springen vanaf het lage gedeelte. Dit gedeelte komt na de bocht net na de eerste speedbump.
 
 ### Artikel 106.OW -  Campen van ganghuizen
 * Het campen van ganghuizen is niet toegestaan
