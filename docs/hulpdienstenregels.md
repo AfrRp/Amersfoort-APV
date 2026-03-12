@@ -213,6 +213,13 @@ Wanneer minimaal 2 van de 3 bovenstaande criteria een feit zijn, mag een agent n
 
 - Een agent mag gericht schieten op het hoofd van een crimineel (wanneer ze genoeg zicht hebben op benen is dit verplicht)
 
+### Artikel 215.HD - Counteren.
+
+1. Het is toegestaan om binnen te vallen als DSI / AT zijnde op het moment dat er geschoten wordt als Politie al is aangekoppeld.
+2. Het is toegestaan om binnen te vallen wanneer een groepering een andere groepering countert en dit door de Politie / Kmar wordt gezien.
+2. Het is niet toegestaan om binnen te vallen als er voordat Politie is aangekoppeld geschoten is door degene die de overval plegen.
+   
+
 ---------------------
 *"APV" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersfoort”, opgemaakt door Dominique & Joostt.
 
