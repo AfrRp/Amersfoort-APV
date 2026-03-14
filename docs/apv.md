@@ -89,7 +89,7 @@ F# Algemene Plaatselijke Verordening Amersfoort
     * Het is niet toegestaan om na een crash door te rijden op het moment dat je gecrashed bent ben je verplicht 10 seconden stil te staan en niet uit te stappen.
 	* Het is niet toegestaaan op het moment dat je een respawn pass gebruikt terug te keren naar het zelfde scenario waar je dood bent gegaan.
     
-| Straf | Categorie 2 |
+| Straf | Categorie 6 |
 |---|---|
 
 ### Artikel 2 - Cheats
@@ -264,7 +264,7 @@ F# Algemene Plaatselijke Verordening Amersfoort
 ### Artikel 15 - Karakter breken (ooc)
 1. Het is te allen tijde verboden om je karakter te breken. Hiermee bedoelen we dat je enige term gebruikt die gezien wordt als OOC (out of character). Hieronder vallen ook termen zoals "report", "staff", "ticket", "Desync" en dergelijke
 
-| Straf | Categorie 3 |
+| Straf | Categorie 5 |
 |---|---|
 
 ### Artikel 16 - Alt Characters
