@@ -84,7 +84,7 @@ F# Algemene Plaatselijke Verordening Amersfoort
     * Wanneer er alleen al een wapen op je gericht staat, ben je verplicht mee te werken. Er hoeft niet persé wat gezegd te worden!
     * Het stelen van wapens uit een kofferbak is ook niet toegestaan.
     * Nadat je in je benen bent geschoten, kan je je wapen niet trekken en dien je als er een wapen op je staat je handen omhoog te doen en mee te werken.
-    * Het is niet toegestaan badslippers te dragen tijdens roleplay dit mag enkel in het water.
+    * Het is niet toegestaan zwemflippers te dragen tijdens roleplay dit mag enkel in het water.
     * Het is niet toegestaan om van de eiland brug af te springen (Dit wordt gezien als onrealistisch)
     * Het is niet toegestaan om na een crash door te rijden op het moment dat je gecrashed bent ben je verplicht 10 seconden stil te staan en niet uit te stappen.
 	* Het is niet toegestaaan op het moment dat je een respawn pass gebruikt terug te keren naar het zelfde scenario waar je dood bent gegaan.
