@@ -10,7 +10,6 @@
 
 ### Artikel 102.OW -  Rippen
 1. Personen die aan een of meerdere van de onderstaande kenmerken voldoen, mogen worden geript:
-
 - Ze dragen een masker.
 - Ze dragen een zwarte motorhelm terwijl ze niet op een motor zitten.
 - Ze dragen een holster.
@@ -18,7 +17,6 @@
 - Ze dragen een kogelwerend vest.
 - Er is een duidelijke animatie te zien van het trekken van een wapen.
 - Illigale activiteiten:
-
 Onder illegale activiteiten valt alleen het toegeven dat je zelf betrokken bent bij criminele handel.
 Voorbeelden van uitspraken die hieronder vallen:
 "Ik verkoop wapens."
@@ -30,7 +28,6 @@ Voorbeelden van uitspraken die hieronder vallen:
 Elke vorm van toegeving wordt gezien als praten over illegale activiteiten. Dit betekent dat iemand duidelijk moet zeggen dat hij of zij hieraan meedoet.
 Als iemand zegt: "Ik zag jou net iemand rippen of witwassen", dan is dat geen geldige reden om hem of haar te rippen, omdat die persoon zichzelf niet schuldig verklaart.
 Van deze personen mogen alle bezittingen worden afgenomen, zoals contant geld, zwartgeld, eten, GPS, telefoons en wapens.
-
 2. Als iemand in een groep een wapen trekt of voldoet aan lid 1, en de desbetreffende persoon zit bij hem of haar in de auto enkel en alleen mag dan de bijzittende personen geript worden.
 3. Tijdens het rippen is het verboden om de portofoon van het slachtoffer te gebruiken om criminele vragen te stellen. Het rippen gaat alleen over de persoon zelf.
 Geblindeerde ramen zijn geen geldige reden om iemand te rippen.
