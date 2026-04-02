@@ -410,6 +410,19 @@ Alleen wanneer allebij de bovenstaande criteria een feit zijn is het toegestaan 
 	- Scrap metal
 	- alle niet onderwereld gerelateerde items ingame
 
+### Artikel 142.OW Vip Loot Player
+
+1. Het is niet de bedoeling dat je random mensen gaat looten die dood liggen en spullen afpakt.
+	- (Mocht dit wel gebeuren dan ben je meteen je vip kwijt)
+2. Spelers die rond lopen met maskers/holsters/armour mogen alleen rippen als je daardwerkelijk een reden op hem had voordat ie geript was.
+	- Bij een geldige reden is het verplicht om bij wapenlijst ticket ook een clip te plaatsten dat je een reden had om die gene te rippen.
+
+### Artikel 143.OW Respawn Pass
+
+1. Het is niet toegestaan om je respawn pass te gebruiken wanneer je omhoog word geholpen door een andere crimineel.
+	- Mocht je je respawn pass gebruiken wanneer dat toegestaan is mag je pas na 20 min opnieuw aankoppelen bij het zelfde scenario.
+
+
 ---------------------
 *"APV" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersfoort”, opgemaakt door Dominique & Joostt.
 
