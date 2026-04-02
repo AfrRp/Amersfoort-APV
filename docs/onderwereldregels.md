@@ -38,6 +38,7 @@ Geblindeerde ramen zijn geen geldige reden om iemand te rippen.
 8. Zodra jij iemand spot met een vuurwapen en hem achtervolgt voor 4/5 bochten en/of 2 minuten, heeft de persoon recht om op jou te rippen.
 9. Op het moment dat jij 2 minuten rondhangt omtrent een scenario waar geschoten is is het toegestaan om persoon te rippen.
 Indien dit het geval is vervallen de normale ripregels hiervan dien jij ten alle tijden bewijs aan te kunnen tonen via een clip.
+10. Vanaf nu mag je alle witgeld/zwartgeld rippen van een persoon die ook een wapen op zak heeft. Heeft iemand alleen geld op zak mag je hem niet rippen ook al draagt ie een masker/holster/bulletproof vest. Dit geldt op land en eiland! 
 
 
 | Straf | Straf | Rippen zonder reden. |
