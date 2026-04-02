@@ -423,6 +423,11 @@ Alleen wanneer allebij de bovenstaande criteria een feit zijn is het toegestaan 
 1. Het is niet toegestaan om je respawn pass te gebruiken wanneer je omhoog word geholpen door een andere crimineel.
 	- Mocht je je respawn pass gebruiken wanneer dat toegestaan is mag je pas na 20 min opnieuw aankoppelen bij het zelfde scenario.
 
+### Artikel 144.OW Turf Gebied
+
+1. Alleen mensen in dit gebied mag je doodschieten.
+	- Je mag niet mensen die buiten het gebied zijn dood schieten, gebeurd dit wel ontvang je taken voor RDM. 
+Gebeurd dit te vaak dan zal het resulteren in een wapenlijst clear. 
 
 ---------------------
 *"APV" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersfoort”, opgemaakt door Dominique & Joostt.
