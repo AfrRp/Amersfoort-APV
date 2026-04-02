@@ -10,6 +10,7 @@
 
 ### Artikel 102.OW -  Rippen
 1. Personen die aan een of meerdere van de onderstaande kenmerken voldoen, mogen worden geript:
+
 - Ze dragen een masker.
 - Ze dragen een zwarte motorhelm terwijl ze niet op een motor zitten.
 - Ze dragen een holster.
@@ -17,6 +18,7 @@
 - Ze dragen een kogelwerend vest.
 - Er is een duidelijke animatie te zien van het trekken van een wapen.
 - Illigale activiteiten:
+
 Onder illegale activiteiten valt alleen het toegeven dat je zelf betrokken bent bij criminele handel.
 Voorbeelden van uitspraken die hieronder vallen:
 "Ik verkoop wapens."
