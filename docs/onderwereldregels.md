@@ -429,6 +429,25 @@ Alleen wanneer allebij de bovenstaande criteria een feit zijn is het toegestaan 
 	- Je mag niet mensen die buiten het gebied zijn dood schieten, gebeurd dit wel ontvang je taken voor RDM. 
 Gebeurd dit te vaak dan zal het resulteren in een wapenlijst clear. 
 
+### **Artikel 145.OW Zwartwassen**
+
+1. Onder zwartwassen wordt verstaan: het omzetten van witgeld naar zwartgeld.
+
+2. **Bij zwartwassen via een aangewezen gangjob moet 25% van het totaalbedrag worden betaald.**
+   - Dit bedrag moet volledig worden betaald.
+   - Het is niet toegestaan om minder te betalen of dit te omzeilen.
+
+3. **Bij alle andere vormen van zwartwassen moet 35% van het totaalbedrag worden betaald.**
+   - Dit geldt voor alle niet-aangewezen manieren van zwartwassen.
+   - Ook hier moet het volledige bedrag worden betaald.
+
+4. **Het is verboden om zwart te wassen zonder de juiste betaling te doen.**
+   - Het ontwijken of gedeeltelijk betalen is niet toegestaan.
+
+5. **Overtreding van dit artikel wordt zwaar bestraft.**
+   - Dit kan leiden tot inbeslagname van geld en/of spullen.
+   - Ook kunnen er extra straffen worden opgelegd.
+
 ---------------------
 *"APV" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersfoort”, opgemaakt door Dominique & Joostt.
 
