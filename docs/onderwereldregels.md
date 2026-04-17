@@ -325,6 +325,7 @@ Wordt deze stap overgeslagen, kan de geripte persoon een refund aanvragen door e
 3. Het is enkel toegestaan om een Hit en Run te doen op de Ammonution Special Overval. (hiervoor moet je een catogorie **1** wapen opzak hebben om te starten.)
 4. Indien je ervoor kiest om de overval te starten zonder Catogorie 1 wapen valt dit alsnog onder Hit en Run.
 3.  Het is toegestaan om enkel en alleen de Ammonution Special Overval te doen zonder Hostages. (Let op Politie, Kmar & Criminelen mogen bij aankoppeling direct binnenvallen.)
+5. Voor de wapens die je ontvangt uit de overval is het verplicht om een **wapenlijst** ticket aan te maken.
 
 ### Artikel 131.OW Knockout slaan
 1. Het is niet toegestaan om iemand KO te slaan via /me of andere middelen.
