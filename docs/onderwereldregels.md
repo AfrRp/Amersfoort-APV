@@ -320,8 +320,10 @@ Wordt deze stap overgeslagen, kan de geripte persoon een refund aanvragen door e
 7. Het is verboden om te counteren/schieten op een Hostage Situatie als de politie al is aangekoppelt.  
 
 ### Artikel 130.OW Hit en Run
-1. Het is niet toegestaan als je een winkel, juwelier, Booreiland, Humane Labs, Legerbasis, Ammonution store bank overval doet dat je de locatie gelijk verlaat. (ook wel genoemd hit en run)
-Je moet minimaal 10 minuten wachten op de locatie of er Politie of Kmar eenheden aankoppelen, mocht dat niet het geval zijn mag je na de 10 minuten de locatie verlaten
+1. Het is niet toegestaan om een overval te doen dat je de locatie gelijk verlaat. (ook wel genoemd hit en run)
+2. Je moet minimaal 10 minuten wachten op de locatie of er Politie of Kmar eenheden aankoppelen, mocht dat niet het geval zijn mag je na de 10 minuten de locatie verlaten.
+3. Het is enkel toegestaan om een Hit en Run te doen op de Ammonution Special Overval. (hiervoor moet je een catogorie 1 wapen opzak hebben om te starten.)
+3.  Het is toegestaan om enkel en alleen de Ammonution Special Overval te doen zonder Hostages. (Let op Politie, Kmar & Criminelen mogen bij aankoppeling direct binnenvallen.)
 
 ### Artikel 131.OW Knockout slaan
 1. Het is niet toegestaan om iemand KO te slaan via /me of andere middelen.
