@@ -280,6 +280,7 @@ Wordt deze stap overgeslagen, kan de geripte persoon een refund aanvragen door e
     - Voor een Juwelier Special overval moeten er minimaal **4** hostages zijn, minimaal **2** catogorie **2** vuurwapen.
 	- Voor een Juwelier overval moeten er minimaal **5** hostages zijn, minimaal **2** catogorie **2** vuurwapen.
 	- Voor een Apotheek overval moeten er minimaal **5** hostages zijn, minimaal **2** catogorie **2** vuurwapen.
+	- Voor een Sandy Bank Overval moeten er minimaal **5** hostages zijn, minimaal **2** catogorie **2** vuurwapen.
 
 
 
