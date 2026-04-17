@@ -455,6 +455,8 @@ Gebeurd dit te vaak dan zal het resulteren in een wapenlijst clear.
    - Dit kan leiden tot inbeslagname van geld en/of spullen.
    - Ook kunnen er extra straffen worden opgelegd.
 
+   
+
    ### **Artikel 146.OW Ripzone**
    
 1. Indien je de ripzone betreed vervallen de ripregels en heb je ten alle tijden een reden om persoon te rippen.
