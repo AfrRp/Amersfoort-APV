@@ -455,6 +455,12 @@ Gebeurd dit te vaak dan zal het resulteren in een wapenlijst clear.
    - Dit kan leiden tot inbeslagname van geld en/of spullen.
    - Ook kunnen er extra straffen worden opgelegd.
 
+   ### **Artikel 146.OW Ripzone**
+1. Indien je de ripzone betreed vervallen de ripregels en heb je ten alle tijden een reden om persoon te rippen.
+2. Zodra je de ripzone verlaat en persoon houdt je in zicht heb je een geldige reden op persoon, indien je hem uit zicht verliest vervalt je ripreden.
+3. Het is toegestaan zodra je de ripzone betreed je uit je voertuig headshot geschoten mag worden.
+4. De Ripzone is te herkennen aan de rode cirkel op je mini map & de melding bovenaan in je scherm je bevindt je momenteel in een ripzone.
+
 ---------------------
 *"APV" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersfoort”, opgemaakt door Dominique & Joostt.
 
