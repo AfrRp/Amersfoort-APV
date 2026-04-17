@@ -275,10 +275,12 @@ Wordt deze stap overgeslagen, kan de geripte persoon een refund aanvragen door e
 	- Voor een Ammo Store moeten er minimaal **2** hostage zijn, Minimaal **1** catogorie **1** vuurwapen.
 	- Voor een Legerbasis Overval moeten er minimaal **2** hostages zijn, Minimaal 1 catogorie **1** vuurwapen.
 	- Voor een Kleine bank overval moeten er minimaal **3** hostages zijn, minimaal **1** catogorie **2** vuurwapen.
-	- Voor een Juwelier overval moeten er minimaal **3** hostages zijn, minimaal **1** catogorie **2** vuurwapen.
 	- Voor een Humane Labs overval moeten er minimaal **4** hostages zijn, Minimaal **1** catogorie **2** vuurwapen & **1** catogorie **1** vuurwapen.
-	- Voor een Grote bank overval moeten er minimaal **5** hostages zijn, minimaal **2** catogorie **2** vuurwapen.
-        - Voor een Juwelier Special overval moeten er minimaal **4** hostages zijn, minimaal **2** catogorie **2** vuurwapen.
+	- Voor een Grote bank overval moeten er minimaal **4** hostages zijn, minimaal **2** catogorie **2** vuurwapen.
+    - Voor een Juwelier Special overval moeten er minimaal **4** hostages zijn, minimaal **2** catogorie **2** vuurwapen.
+	- Voor een Juwelier overval moeten er minimaal **5** hostages zijn, minimaal **2** catogorie **2** vuurwapen.
+	- Voor een Apotheek overval moeten er minimaal **5** hostages zijn, minimaal **2** catogorie **2** vuurwapen.
+
 
 
 5. Categorieen Wapens:
