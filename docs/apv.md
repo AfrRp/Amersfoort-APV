@@ -577,6 +577,16 @@ Als je refund hier niet aan voldoet, staat een stafflid in zijn/haar recht om je
 | Straf | Categorie 5 |
 |---|---|
 
+### Artikel 48 – Vliegende voertuigen.
+
+1. Het is toegestaan om gebruik te maken van de vliegende voertuigen in Roleplay.
+2. Het is niet toegestaan om te schieten vanuit een vliegend voertuig zowel als bestuurder als achterop zijnde niet.
+3. Indien je misbruik maakt van de vliegende voertuigen door lid 2 te verbreken zal dit leiden tot een straf.
+
+| Straf | Categorie 5 |
+|---|---|
+
+
 
 
 ---------------------
