@@ -94,6 +94,8 @@ Het moment dat er minder dan 20 agenten zijn in F10 mag je maximiaal 1 agent hos
 6. Het is **niet** toegestaan om te rippen op pluk, verwerk & verkoop.
 7. Wanneer een persoon 2 minuten lang op eiland brug staat, heb jij een ripreden. Je dient dit altijd te kunnen aantonen doormiddel van een clip.
 8. Het is toegestaan om van eiland brug af te springen vanaf het lage gedeelte. Dit gedeelte komt na de bocht net na de eerste speedbump.
+9. Als je op acetone pluk gaat plukken met wapen op zak mag je wapen geript worden.
+10. Acetone mag je niet rippen van de plukkers.
 
 ### Artikel 106.OW -  Campen van ganghuizen
 * Het campen van ganghuizen is niet toegestaan
