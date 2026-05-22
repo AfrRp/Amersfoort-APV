@@ -570,7 +570,7 @@ Als je refund hier niet aan voldoet, staat een stafflid in zijn/haar recht om je
 | Straf | Categorie 5 |
 |---|---|
 
-### Artikel 48 – Vliegende voertuigen.
+### Artikel 49 – Vliegende voertuigen.
 
 1. Het is toegestaan om gebruik te maken van de vliegende voertuigen in Roleplay.
 2. Het is niet toegestaan om te schieten vanuit een vliegend voertuig zowel als bestuurder als achterop zijnde niet.
@@ -579,8 +579,14 @@ Als je refund hier niet aan voldoet, staat een stafflid in zijn/haar recht om je
 | Straf | Categorie 5 |
 |---|---|
 
+### Artikel 50 – Bodylooten.
 
+1. Het is toegestaan voor Politie / Kmar & andere specialisaties om wapens af te pakken indien je dood bent.
+2. Dit is uitsluitend toegestaan indien er sprake is van een desbetreffende schotenmelding.
+3. Het is niet toegestaan om wapens af te pakken indien er geen schotenmelding heeft plaatsgevonden op de locatie waar je bent doodgegaan.
 
+| Straf | Categorie 5 |
+|---|---|
 
 ---------------------
 *"APV" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersfoort”, opgemaakt door Dominique & Joostt.
