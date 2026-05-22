@@ -464,6 +464,13 @@ Gebeurd dit te vaak dan zal het resulteren in een wapenlijst clear.
 4. De Ripzone is te herkennen aan de rode cirkel op je mini map & de melding bovenaan in je scherm je bevindt je momenteel in een ripzone. (Postcode 102)
 5. Het is niet toegestaan voor Politie & Kmar om de ripzone te betreden.
 
+	### **Artikel 147.OW Terugeisen van wapens**
+
+1. Het is niet toegestaan om wapens terug te rippen van agenten nadat deze zijn afgenomen van een overleden crimineel.
+2. Je mag uitsluitend het wapen van je eigen member terugrippen of opeisen.
+3. Per situatie/scenario mag er slechts een wapen van dezelfde agent worden teruggeript of opgeëist.
+4. Het is niet toegestaan om willekeurig een agent hands-up te zetten om via een andere agent je wapen terug te eisen.
+
 ---------------------
 *"APV" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersfoort”, opgemaakt door Dominique & Joostt.
 
