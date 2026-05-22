@@ -355,28 +355,24 @@ F# Algemene Plaatselijke Verordening Amersfoort
 
 ## Overtredingen - Criminele activiteiten
 
+## Artikel 24 - Scammen
+
+1. Scammen is verboden in de volgende situaties:
+- Scammen op een gangterrein (ook voor de deur) is verboden.
+- Alles omtrent gangjobs met wapens mag niet gescamd worden.
+2. Scammen is toegestaan in de volgende situaties:
+- Indien er sprake is van een normale deal omtrent items en wapens, die buiten lid 1 valt, is scammen toegestaan.
+3. Deals via discord is niet toegestaan.
+
+| Straf | Categorie 4 |
+|---|---|
+
 ### Artikel 24.1 – Overvallen & Oplichting (Scammen)
 
 1. Scammen bij een Discord-deal is ten strengste verboden.
 	- Zodra enig onderdeel van de afspraak (prijs, item, voorwaarden, foto van het item / de items) via Discord is besproken/verstuurd, valt de volledige deal onder scam-verbod.
 2. Het betalen van onderwereld gerelateerde items met witgeld. (bekijk artikel 141.OW Witgeldtransacties)
 3. Scammen bij een volledig ingame afgesproken deal is toegestaan, tenzij één van de uitzonderingen onder 24.2 van toepassing is.
-
-### Artikel 24.2 Uitzonderingen – Scammen verboden
-1. Scammen is niet toegestaan indien:
-	- De transactie plaatsvindt op een officieel gangterrein.
-	- De betaling geheel of gedeeltelijk met witgeld plaatsvindt. (bekijk artikel 141.OW Witgeldtransacties)
-	- De deal (gedeeltelijk) via Discord is besproken. (Bekijk artikel 24.1.1)
-	- Er sprake is van onderwereld-gerelateerde items die met witgeld worden verkocht. (Dit is altijd verboden en zal direct gestraft worden met een zware sanctie)
-
-### Artikel 24.3 Aanvullende regels
-1. De volgende aanvullende regels zijn ten allen tijden van toepassing:
-	- Bij gemengde betalingen (zwart + wit) wordt de volledige transactie aangemerkt als witgeldtransactie. Artikel 141.OW Witgeldtransacties blijft van toepassing.
-	- Het gebruik maken van een middleman om deze regels te omzeilen is niet toegestaan.
-	- Wanneer er toch gescammed word op een deal die onder het scam-verbod valt, dien jij te kunnen aantonen waarom deze deal onder het scam-verbod zou moeten vallen. Kun je dit niet, zal de scam ten allen tijden goedgekeurd worden.
-
-| Straf | Categorie 3 |
-|---|---|
 
 ### Artikel 25 - Ontsnappen uit het cellencomplex
 1. Het is toegestaan om te ontsnappen uit het cellencomplex, echter dient hier een geldig roleplay scenario aan gekoppeld te worden.
