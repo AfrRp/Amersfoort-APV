@@ -189,10 +189,11 @@ F# Algemene Plaatselijke Verordening Amersfoort
 
 
 ### Artikel 9.2 - Combat-stashen
-1. Hij/zij die tijdens een roleplay scenario, zijn wapen binnen de 10 minuten na gebruik weglegt.
-2. Hij/zij die tijdens een roleplay scenario, de stad moet verlaten zal ten alle tijden als eerst een report moeten aan maken en goedkeuring moeten krijgen!
-3. Hij/zij die een wapen ript tijdens een roleplay scenario mag pas na 10 minuten het wapen wegleggen.
-4. Hij/zij die zijn wapen gebruikt, dient 10 minuten te wachten voor hij/zij deze weglegd.
+1. Het is niet toegestaan om tijdens een roleplay scenario een wapen binnen 10 minuten na gebruik weg te leggen of te stashten.
+2. Indien men tijdens een roleplay scenario de stad moet verlaten, dient hier te allen tijde eerst een report voor te worden aangemaakt en goedkeuring voor te zijn verkregen.
+3. Een wapen dat tijdens een roleplay scenario is geript, mag pas na 10 minuten worden weggelegd.
+4. Na gebruik van een wapen geldt een wachttijd van 10 minuten voordat het wapen gestasht mag worden pas daarna mag het wapen worden weggelegd.
+5. Wapens verkregen via bodyloot mogen pas na 10 minuten worden gestasht door Politie, de Koninklijke Marechaussee en criminelen.
 
 | Straf | Straf | Wapen inleveren |
 |---|---|---|
