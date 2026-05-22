@@ -58,12 +58,11 @@ Indien dit het geval is vervallen de normale ripregels hiervan dien jij ten alle
 8. Je mag geen items / wapens van agenten afpakken of onder dwang laten afgeven tenzij dit criminele wapens zijn.
 9. Zodra je na een overval een hostage pakt, Mag de politie direct ingrijpen. (Hier moet minimaal 30 min tussen zitten)
 10. Iemand met een ID Kaart met een criminele achternaam mag niet geript worden.
-11. Het is niet toegestaan om een crimineel van een andere groepering te rippen als hij of zij aangehouden wordt door politie. (Je mag enkel alleen je eigen mensen terugeisen)
-12. Je mag niet in een appartement je wapens of je drugs verhandelen. Dit is niet toegestaan
-13. Er mag ten alletijden maximaal 1 Agent hostage genomen worden.
+11. Je mag niet in een appartement je wapens of je drugs verhandelen. Dit is niet toegestaan
+12. Er mag ten alletijden maximaal 1 Agent hostage genomen worden.
 Het moment dat er minder dan 20 agenten zijn in F10 mag je maximiaal 1 agent hostage pakken, ookal zijn ze koppel pak je er een en pak je van de andere comms af. Het moemnt dat er meer dan 20 agenten zijn mag je maximaal 2 agenten pakken (een koppel)
-14. Zodra je ervoor kiest om met een groot wapen te spelen zonder tas, wordt het wapen zichtbaar op de rug, wat het risico met zich meebrengt dat je geript mag worden. (met een tas om is dit niet het geval) 
-15. Als je tijdens een hostage situatie begint te schieten dan mag de politie ingrijpen door aanhoudingsvuur te geven
+13. Zodra je ervoor kiest om met een groot wapen te spelen zonder tas, wordt het wapen zichtbaar op de rug, wat het risico met zich meebrengt dat je geript mag worden. (met een tas om is dit niet het geval) 
+14. Als je tijdens een hostage situatie begint te schieten dan mag de politie ingrijpen door aanhoudingsvuur te geven
 
 ### Artikel 103.1.OW - Greenzone
 - De Wegenwacht (Tenzij de persoon een motorhelm, masker, bulletproofvest of holster draagt. Je wacht de persoon BUITEN af)
