@@ -215,12 +215,16 @@ Wanneer minimaal 2 van de 3 bovenstaande criteria een feit zijn, mag een agent n
 
 ### Artikel 215.HD - Counteren.
 
-**Artikel 215.HD - Counteren.**
-
 1. Het is toegestaan om binnen te vallen als DSI / AT zijnde op het moment dat er geschoten wordt als Politie al is aangekoppeld.
 2. Het is toegestaan om binnen te vallen wanneer een groepering een andere groepering countert en dit door de Politie / Kmar wordt gezien.
 3. Het is niet toegestaan om binnen te vallen als er voordat Politie is aangekoppeld geschoten is door degene die de overval plegen.
 4. Het is niet toegestaan om als hostage zijnde een neventaak oproep te doen.
+
+### Artikel 216.HD - Combat Rol
+
+1. Combat rollen is uitsluitend toegestaan bij het dragen van een SMG of Rifle tijdens een shootout.
+2. Combat rollen met andere wapens is niet toegestaan.
+3. Indien je als eenheid standaard in dienst gaat met enkel een pistol, is het niet toegestaan gebruik te maken van een combat rol.
 
 ---------------------
 *"APV" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersfoort”, opgemaakt door Dominique & Joostt.
