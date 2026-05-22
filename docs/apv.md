@@ -509,18 +509,15 @@ F# Algemene Plaatselijke Verordening Amersfoort
 | Straf | Categorie 5 + Wapeninname |
 |---|---|
 
-### Artikel 43 - Wapenlijst ticket
-1. Het is verplicht om een wapenlijst ticket aan te maken als je een wapen koopt van een burger.
-2. Het is verplicht om een wapenlijst ticket aan te maken als je een burger ript!
-3. Vanaf heden hoef je geen wapenlijst-ticket meer te openen voor melee-wapens.
-3. Het is verplicht dat je gaat clippen tijdens het koop procedure!
-4. Het is verboden om een foto als bewijs te laten zien! 
-5. Je bent verplicht om de wapenlijst van de tegenpartij te vragen.
-6. Je hebt het recht om je wapenlijst 1 keer aan te passen! Hiervoor dien je een ticket aan te maken!
-7. Wapenlijst naam moet EXACT het zelfde zijn als steamnaam! Wanneer dit niet het geval is zullen je wapens gewiped worden zonder excuses.
-8. Wapenlijst / steamnamen mogen geen speciale tekens bevatten!
+### Artikel 43 No Fly Zone - Vliegende Voertuigen. 
 
-| Straf |  Catogorie 5 + Wapenlijstcontrole |
+1.Het gebied dat staat aangegeven op de kaart betreft een No-Fly Zone rondom Rode Garage.
+2.Binnen dit gebied is het verboden om te vliegen met vliegende voertuigen en is het ook niet toegestaan om shootouts aan te gaan.
+
+<img width="1398" height="1125" alt="image" src="https://github.com/user-attachments/assets/ef1805b5-5959-450b-b788-18c1a69ac1a0" />
+
+
+| Straf | Categorie 5 + Wapeninname |
 |---|---|
 
 ### Artikel 44 - Refunds
