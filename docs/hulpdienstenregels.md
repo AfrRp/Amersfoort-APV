@@ -240,7 +240,9 @@ Wanneer minimaal 2 van de 3 bovenstaande criteria een feit zijn, mag een agent n
    - Indien men in bezit is van een categorie 2 shotgun.
    - Indien men in bezit is van een categorie 3 rifle.
 
-3. In situaties genoemd onder lid 2 zijn de transportregels van toepassing.
+   3. Indien er in een situatie een advocaat aanwezig is en zowel de advocaat als de agent akkoord gaan met de strafvermindering, mag de crimineel in lid 1 situaties zelf bepalen of hij/zij vanuit HB wordt gejailed of wordt getransporteerd.
+
+4. In situaties genoemd onder lid 2 zijn de transportregels van toepassing.
 
 ---------------------
 *"APV" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersfoort”, opgemaakt door Dominique & Joostt.
