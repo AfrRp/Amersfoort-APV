@@ -228,18 +228,17 @@ Wanneer minimaal 2 van de 3 bovenstaande criteria een feit zijn, mag een agent n
 
 ### Artikel 217.HD - Jail HB
 
-** Artikel 217.HD — Jail vanuit HB**
-
 1. Het is voor Politie en de Koninklijke Marechaussee toegestaan om vanuit HB te jailen in de volgende situaties:
-- Indien men in het bezit is van een categorie 0 slag- en stootwapen.
-- Indien men in het bezit is van een categorie 1 pistol.
-- Indien men in bezit is van criminele items.
-- Indien men in bezit is van meerdere categorie 0 wapens.
+   - Indien men in het bezit is van een categorie 0 slag- en stootwapen.
+   - Indien men in het bezit is van een categorie 1 pistol.
+   - Indien men in bezit is van criminele items.
+   - Indien men in bezit is van meerdere categorie 0 wapens.
 
 2. Het is niet toegestaan om vanuit HB te jailen in de volgende situaties:
-- Indien men in bezit is van meer dan een vuurwapen, waaronder ook categorie 1 wapens.
-- Indien men in bezit is van een categorie 2 SMG / Shotgun vuurwapen.
-- Indien men in bezit is van een Catogorie 3 Rifle wapen.
+   - Indien men in bezit is van meer dan één vuurwapen, waaronder ook categorie 1 wapens.
+   - Indien men in bezit is van een categorie 2 SMG.
+   - Indien men in bezit is van een categorie 2 shotgun.
+   - Indien men in bezit is van een categorie 3 rifle.
 
 3. In situaties genoemd onder lid 2 zijn de transportregels van toepassing.
 
