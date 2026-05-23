@@ -226,6 +226,18 @@ Wanneer minimaal 2 van de 3 bovenstaande criteria een feit zijn, mag een agent n
 2. Combat rollen met andere wapens is niet toegestaan.
 3. Indien je als eenheid standaard in dienst gaat met enkel een pistol, is het niet toegestaan gebruik te maken van een combat rol.
 
+### Artikel 217.HD - Jail HB
+
+1. Het is toegestaan om te jailen vanuit HB voor Politie & Kmar in de volgende situaties:
+- Indien je een Catogorie 0 Slag & Stoot wapen opzak hebt.
+- Indien je een Catogorie 1 Pistol wapen opzak hebt.
+- Indien je in bezit bent van criminele items.
+- Indien je in bezit bent van meerdere Catogorie 0 wapens.
+2. Het is niet toegestaan om vanuit HB te jailen in de volgende situaties.
+- Indien je in bezit bent van meer dan 1 vuurwapen dit geldt ook voor Catogorie 1 wapens.
+- Indien je in bezit bent van een Catogorie 2 SMG, Shotgun of Catogorie 3 Rifle wapen.
+3. Lid 2 situaties gelden de transport regels.
+
 ---------------------
 *"APV" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersfoort”, opgemaakt door Dominique & Joostt.
 
