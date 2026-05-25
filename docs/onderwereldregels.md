@@ -211,10 +211,11 @@ Het afnemen van items (wapens, drugs, etc.) mag **alleen**:
 
 ### Artikel 120.OW - Counteren
 1. Het is alleen toegestaan om een overval te counteren als de wapens fysiek gezien zijn.
-   - Zodra de politie is aangekomen is het counteren niet meer toegestaan.
+   - Zodra de politie / kmar is aangekomen is het counteren niet meer toegestaan.
    - Het is ook niet toegestaan om in de buurt te zijn of als de achtervolging is gestart daarin mee te gaan. (Dit geldt ook voor je eigen gangleden)
-2. Het is niet toegestaan om tijdens een politie achtervolging aan te koppelen, Of dit nou in het begin of aan het eind van de achtervolging is.
-3. Het is niet toegestaan om grote bank te counteren, ookal is politie niet aangekoppeld.
+2. Het is niet toegestaan om tijdens een politie / kmar achtervolging aan te koppelen, Of dit nou in het begin of aan het eind van de achtervolging is.
+3. Het is niet toegestaan om aan te koppelen tijdens een shootout die vanuit een achtervolging is gestart vanuit een Overval / Hostage situatie.
+4. Het is enkel toegestaan voor de groepering zelf om een setup neer te zetten na 3 minuten.
 
 
 
@@ -470,6 +471,8 @@ Gebeurd dit te vaak dan zal het resulteren in een wapenlijst clear.
 2. Je mag uitsluitend het wapen van je eigen member terugrippen of opeisen.
 3. Per situatie/scenario mag er slechts een wapen van dezelfde agent worden teruggeript of opgeëist.
 4. Het is niet toegestaan om willekeurig een agent hands-up te zetten om via een andere agent je wapen terug te eisen.
+
+
 
 ---------------------
 *"APV" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersfoort”, opgemaakt door Dominique & Joostt.
