@@ -85,7 +85,7 @@ Het moment dat er minder dan 20 agenten zijn in F10 mag je maximiaal 1 agent hos
    
 ### Artikel 105.OW - Eiland
 
-1. Op het eiland mogen alle onderwereld gerelateerde items en communicatie worden geript zonder reden.
+1. Op het eiland mogen alle items en communicatie worden geript zonder reden.
 2. Op het eiland mag jij personen vermoorden als er een geldige reden voor is (bijv. de persoon verlaat het eiland niet terwijl jij dit hem wel hebt vermeld).
 3. Op het eiland geldt Artikel 22 - RDM (Lid 5.) niet. Het moment dat jij je wapen trekt en er is geen shootout, mag jij alsnog worden afgeschoten aangezien het eiland op eigen risico is.
 4. De eiland-brug telt niet als eiland. Als een persoon over de 2e remblok is (de dichtstbijzijnde bij eiland) is het toegestaan om deze persoon te rippen.
