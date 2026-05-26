@@ -244,6 +244,15 @@ Wanneer minimaal 2 van de 3 bovenstaande criteria een feit zijn, mag een agent n
 
 4. In situaties genoemd onder lid 2 zijn de transportregels van toepassing.
 
+### Artikel 218.HD - Maximale Jailtijd
+
+1. Op het moment dat je bent aangehouden zal je tijdelijk vastgehouden worden in het cellencomplex op een HB.
+2. Voor de agent is het toegestaan om een verdachte voor maximaal 10 minuten vast te houden in het cellencomplex van HB. Hierna moet de agent de verdachte verplicht transporteren.
+3. Wanneer de verdachte vraagt om een advocaat mag een agent de verdachte voor maximaal 30 minuten vasthouden.
+4. Wanneer een verdachte word verhoord door de DNR of DSI mag de verdachte voor maximaal 1 uur vastgehouden worden in het cellencomplex of verhoorkamer.
+5. Op het moment dat de agent de verdachte naar de gevangenis heeft gebracht is de maximale jailtijd die gegeven mag worden 150 maanden (2,5 uur).
+6. Deze 150 maanden mogen enkel overschreden worden door korpsleiding/brigadeleiding leden en HDA's/HDC's/HHDC's tot een maximaal van 300 maanden.
+
 ---------------------
 *"APV" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “Amersfoort”, opgemaakt door Dominique & Joostt.
 
