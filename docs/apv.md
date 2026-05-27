@@ -585,7 +585,7 @@ Als je refund hier niet aan voldoet, staat een stafflid in zijn/haar recht om je
 1. Het is **niet** toegestaan voor Politie / Kmar & andere specialisaties om wapens af te pakken indien je dood bent.
 2. Dit is uitsluitend toegestaan voor **DSI**, **RRT**, **Inspecteur +**, **Opperwachtmeester +** & **Recherche** indien er sprake is van een desbetreffende schotenmelding.
 3. Het is **niet** toegestaan voor **DSI**, **RRT**, **Inspecteur +**, **Opperwachtmeester +**, & **Recherche** om wapens af te pakken indien er geen schotenmelding heeft plaatsgevonden op de locatie waar je bent doodgegaan.
-4. De mensen die **Opperwachtmeester +** & **Inspecteur +** indienst zijn als **Unmarked** mogen ook wapens afnemen.
+4. Indien je **Inspecteur + Unmarked** bevoegd of **Opperwachtmeester + Unmarked** bevoegd bent, mag je ook tijdens **Unmarked** wapens afnemen. Dit geldt eveneens voor alle hogere rangen met deze bevoegdheid.
 
 
 | Straf | Categorie 5 |
