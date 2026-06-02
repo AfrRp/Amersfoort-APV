@@ -512,10 +512,11 @@ F# Algemene Plaatselijke Verordening Amersfoort
 
 ### Artikel 43 No Fly Zone - Vliegende Voertuigen. 
 
-1.Het gebied dat staat aangegeven op de kaart betreft een No-Fly Zone rondom Rode Garage.
+1.Het gebied dat staat aangegeven op de kaart betreft een No-Fly Zone rondom Rode Garage & Eiland.
 2.Binnen dit gebied is het verboden om te vliegen met vliegende voertuigen en is het ook niet toegestaan om shootouts aan te gaan.
 
 <img width="1398" height="1125" alt="image" src="https://github.com/user-attachments/assets/ef1805b5-5959-450b-b788-18c1a69ac1a0" />
+<img width="466" height="406" alt="image" src="https://github.com/user-attachments/assets/9ce50de5-1b68-4e88-87f4-c0e17ded0c05" />
 
 
 | Straf | Categorie 5 + Wapeninname |
