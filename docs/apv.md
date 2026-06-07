@@ -88,7 +88,7 @@ F# Algemene Plaatselijke Verordening Amersfoort
     * Het is niet toegestaan om van de eiland brug af te springen (Dit wordt gezien als onrealistisch)
     * Het is niet toegestaan om na een crash door te rijden op het moment dat je gecrashed bent ben je verplicht 10 seconden stil te staan en niet uit te stappen.
 	* Het is niet toegestaaan op het moment dat je een respawn pass gebruikt terug te keren naar het zelfde scenario waar je dood bent gegaan.
-	* Het is niet toegestaan voor zowel Politie, Kmar & Criminelen om als je dood bent terug aan te koppelen aan het zelfde scenario / shootout.
+	* Het is niet toegestaan voor zowel Politie, Kmar & Criminelen om als je gerespawned bent terug aan te koppelen aan het zelfde scenario / shootout.
     
 | Straf | Categorie 6 |
 |---|---|
