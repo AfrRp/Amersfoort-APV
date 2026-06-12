@@ -307,6 +307,7 @@ Wordt deze stap overgeslagen, kan de geripte persoon een refund aanvragen door e
       - De ripregels
       - Een hostage voor een OV
 3. Het is dus niet toegestaan om zonder reden willekeurige mensen handsuppen om te hopen dat ze iets op zak hebben of iets in dezelfde zin. 
+4. Het is niet toegestaan om als bestuurder van een motor of auto te **handsuppen** dit mag enkel de bijrijder.
 
 ### Artikel 129.OW Hostage Situaties
 1. Wanneer je een Winkel ov, Bank, Plofkraak, Ammonution Store, Legerbasis Overval of Juwelier overvallen hebt.
