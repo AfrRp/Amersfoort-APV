@@ -177,13 +177,12 @@ F# Algemene Plaatselijke Verordening Amersfoort
 
 ### Artikel 9.1 - Combat-logging
 1. Hij/zij die tijdens een roleplay scenario, de stad verlaat zonder enige reden op te geven.
-2. Hij/zij die tijdens een roleplay scenario, dood gaat met een wapen en de stad verlaat, dient een permanente ban te ontvangen om het wapen in te leveren voor eventuele straf vermindering, Ook wordt de wapenlijst gecleared van deze persoon.
+2. Hij/zij die tijdens een roleplay scenario, dood gaat met een wapen en de stad verlaat, dient een permanente ban te ontvangen om het wapen in te leveren voor eventuele straf vermindering.
 3. Hij/zij die tijdens een roleplay scenario, in een shootout heeft gezeten of een wapen heeft getrokken en de stad heeft verlaten "Wordt dit gezien als combatlog"
 4. Hij/zij die tijdens een roleplay scenario, de stad moet verlaten, zal ten alle tijden als eerst een report moeten aan maken en goedkeuring moeten krijgen!
 5. Hij/zij die geschoten heeft zal eerst 10 minuten in de stad moeten blijven voor dat hij de stad mag verlaten.
 6. Hij/zij die tijdens een roleplay scenario uitlogt of dood gaat met een wapen en de stad verlaat zal de 1e keer zijn wapen worden ingenomen.
 7. Hij/zij die tijdens een roleplay scenario uitlogt of dood gaat met een wapen en de stad verlaat zal de helft van de wapens worden ingenomen.
-8. Hij/zij die tijdens een roleplay scenario uitlogt of dood gaat met een wapen en de stad verlaat zal de volledige wapenlijst gecleared worden.
 
    **| Straf | Categorie 6 |**
 |---|---|Op basis van het aantal waarschuwingen dat je hebt en je gedrag binnen de stad, wordt bepaald hoeveel wapens er per combatlog worden ingenomen, dit zal worden besloten door Hoge Raad+
