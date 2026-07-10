@@ -393,11 +393,9 @@ Wordt deze stap overgeslagen, kan de geripte persoon een refund aanvragen door e
 
 1. Het is niet toegestaan om iets uit een dashboard of kofferbak te stelen behalve als het volgende van toepassing is:
 	- Je een ripreden hebt op persoon. (kijk Artikel 102.OW - Rippen)
-	- Je een wapenlijst van persoon kan pakken. (dus je moet persoon gehandsupped hebben)
 
 Alleen wanneer allebij de bovenstaande criteria een feit zijn is het toegestaan om spullen uit een voertuig te halen!
-
-2. Het is niet toegestaan om wapens / andere items te stelen uit een voertuig als je geen wapenlijst kan pakken van persoon. (dus het random checken van dashboards en kofferbakken en dingen eruit stelen is niet toegestaan).
+(dus het random checken van dashboards en kofferbakken en dingen eruit stelen is niet toegestaan).
 
 ### Artikel 140.OW Transport Counteren
 1. Vanaf het moment dat het transport in zicht is is het **niet** toegestaan om te counteren.
@@ -423,7 +421,6 @@ Alleen wanneer allebij de bovenstaande criteria een feit zijn is het toegestaan 
 1. Het is niet de bedoeling dat je random mensen gaat looten die dood liggen en spullen afpakt.
 	- (Mocht dit wel gebeuren dan ben je meteen je vip kwijt)
 2. Spelers die rond lopen met maskers/holsters/armour mogen alleen rippen als je daardwerkelijk een reden op hem had voordat ie geript was.
-	- Bij een geldige reden is het verplicht om bij wapenlijst ticket ook een clip te plaatsten dat je een reden had om die gene te rippen.
 
 ### Artikel 143.OW Respawn Pass
 
@@ -434,7 +431,7 @@ Alleen wanneer allebij de bovenstaande criteria een feit zijn is het toegestaan 
 
 1. Alleen mensen in dit gebied mag je doodschieten.
 	- Je mag niet mensen die buiten het gebied zijn dood schieten, gebeurd dit wel ontvang je taken voor RDM. 
-Gebeurd dit te vaak dan zal het resulteren in een wapenlijst clear. 
+Gebeurd dit te vaak dan zal het resulteren in het inleveren van alle wapens. 
 
 ### **Artikel 145.OW Zwartwassen**
 
