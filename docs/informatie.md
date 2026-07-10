@@ -41,18 +41,14 @@ Proberen ‘’loopholes’’ te vinden in de regels en/of de regels te misbrui
 6. Als een auto niet in de normale cardealer staat gaat het om een speciaal voertuig en mag deze niet verkocht worden.
 
 
-### **Artikel 12.INF - Regels Omtrent Wapenlijst**
-1. Hij/zij die een wapen koopt/krijgt/ript is ten alle tijden verplicht een wapenlijst ticket te maken met Clip. [Dit is Verplicht!!].
-2. Bij overtreding van dit artikel volgt categorie 6
-
-### **Artikel 13.INF - Donaties**
+### **Artikel 12.INF - Donaties**
 
 1. Donaties staan vast, als er éénmaal gedoneerd is, krijg je het geld **NIET** meer terug.
 3. In het geval dat er een chargeback wordt gemaakt zonder dat er om support wordt gevraagd zal dit leiden tot een permanente ban.
 4. In het geval dat de gene frauduleuze betalingen probeert te maken zal deze ook een permanente ban ontvangen.
 5. In het geval jij toch veder gaat met doneren, ga jij automatisch akkoord met de regels omtrent het doneren of aankopen doen in de store.
 
-### **Artikel 14. INF - Staffzaak**
+### **Artikel 13. INF - Staffzaak**
 
 1. Het is niet toegestaan als je nog in een roleplay scenario zit een staffzaak te starten.
 2. Mocht het scenario klaar zijn wacht je minimaal **5 minuten** dan mag je een staffzaak starten.
