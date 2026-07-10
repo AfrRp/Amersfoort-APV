@@ -47,7 +47,7 @@ Het is verplicht om je aan de eisen te houden die zijn afgesproken onderling, do
 	- Als er wapens aangetroffen worden dan mag 50% van de totale inhoud van de woning en de voertuigen/vaartuigen/vliegtuigen/container samen in beslag worden genomen.
 	- Echter word tijdens de huiszoeking zelf de volle 100% ingenomen en kun jij later via een ticket de 50% terug krijgen bij een van de HDC's
 4. Regels tijdens een huiszoeking.
-	- Bij de huiszoeking is de verdachte ten aller tijden verplicht hieraan mee te werken, wordt dit niet gedaan dan zal hier een wapenlijstclear op staan.
+	- Bij de huiszoeking is de verdachte ten aller tijden verplicht hieraan mee te werken, wordt dit niet gedaan dan zal hij al zijn wapens moeten inleveren.
 	- Tijdens een huiszoeking mag de verdachte niet worden vrijgebroken. Tenzij de verdachte vanuit het hoofdbureau naar de gevangenis vervoerd wordt, de verdachte heeft dan recht op 1 telefoontje om te melden dat hij vervoerd word.
 	- Als de verdachte word vrijgebroken door zijn/haar eigen gangmembers zal persoon niet 50% moeten afstaan maar 30% en krijg dus 70% van de totale inhoud terug.
 
