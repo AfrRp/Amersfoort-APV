@@ -102,7 +102,6 @@
 6. Als de aangehouden persoon zijn primaire rechten niet voorgelezen heeft gekregen en er geen omstandigheden waren zoals genoemd in lid 5, zal de persoon strafvermindering krijgen in overleg met de hOvJ/OvJ/HOvJ of bestuursleden van de politie of marrechaussee. Indien geen van deze beschikbaar zijn zal de persoon een strafvermindering krijgen van 25%.
 
 ## Titel I - Vermogensdelicten
-![image (25)](https://user-images.githubusercontent.com/116096149/196765798-bcb87978-8178-4313-84be-b83af1442d14.png)
 
 ### Artikel I-1 Diefstal (310 SR)
 
@@ -151,7 +150,6 @@
 
 
 ## Titel II - Geweldsdelicten
-![image (24)](https://user-images.githubusercontent.com/116096149/196765833-1b9f1f54-eebc-4109-b7f6-a1c60a187617.png)
 
 
 ### Artikel II-1 Verzet (180 SR)
@@ -261,7 +259,6 @@
 | **Meerdere Veroordelingen**  | 30  Maanden |  |  € 17000,- |
 
 ## Titel III - Verkeersdelicten
-![image (23)](https://user-images.githubusercontent.com/116096149/196765881-9ea42281-4d24-4581-b46c-263ec419bb3e.png)
 
 
 ### Artikel III-1 Gevaar / hinder zonder ongeval (5 WVW)
@@ -365,7 +362,6 @@
 | Onnodig links rijden | € 1000,-  |
 
 ## Titel IV - Opiumwet
-![image (26)](https://user-images.githubusercontent.com/116096149/196766240-45953fdc-1e1e-4181-9e28-687faf34dc56.png)
 
 
 ### Artikel IV-1 Harddrugs (2 OW)
@@ -427,7 +423,6 @@
 | **151+ eindproducten**  | 30 maanden |   | € 25000,- |
 
 ## Titel V - Wet Wapens en Munitie
-![image (22)](https://user-images.githubusercontent.com/116096149/196765977-b756da42-22d1-41c2-b216-deec76d480d8.png)
 
 
 ### Artikel V-1 Steek- en slagwapens (27 WWM)
@@ -484,7 +479,6 @@
 
 
 ## Titel VI - Overige
-![image (21)](https://user-images.githubusercontent.com/116096149/196766300-9201c14f-258d-4221-8535-7915390c6609.png)
 
 
 ### Artikel VI-1 Niet voldoen aan een bevel of vordering (184 SR)
