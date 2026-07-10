@@ -394,7 +394,7 @@ Wordt deze stap overgeslagen, kan de geripte persoon een refund aanvragen door e
 1. Het is niet toegestaan om iets uit een dashboard of kofferbak te stelen behalve als het volgende van toepassing is:
 	- Je een ripreden hebt op persoon. (kijk Artikel 102.OW - Rippen)
 
-Alleen wanneer allebij de bovenstaande criteria een feit zijn is het toegestaan om spullen uit een voertuig te halen!
+Alleen wanneer de bovenstaande criteria een feit zijn is het toegestaan om spullen uit een voertuig te halen!
 (dus het random checken van dashboards en kofferbakken en dingen eruit stelen is niet toegestaan).
 
 ### Artikel 140.OW Transport Counteren
