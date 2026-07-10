@@ -531,16 +531,12 @@
 4. Een refund dient binnen 2 weken geclaimd te zijn, anders zal de verkregen refund vervallen, tenzij er een afspraak is gemaakt met het stafflid in kwestie over het claimen op een later moment.
 5. Om een recent scenario te kunnen behandelen, vragen wij een ticket in de categorieën klachten over spelers / in game refunds binnen 7 dagen aan te maken. Tickets buiten de 7 dagen worden niet behandeld, tenzij er toestemming is gegeven door hogerop.
 
-### Artikel 45 - Refunds 
-
 **Om in aanmerking te komen voor een refund moet je aan de volgende eisen voldoen:**
 - Je hebt een clip van het gehele scenario **met audio en u moet ook volledig hoor baar zijn in uw clip**. We dienen het scenario vanaf het begin te kunnen zien.
 - De clip dient vanuit je eigen perspectief te zijn. Dit mag dus niet het perspectief van een ander zijn.
 - De clip moet **minimaal 5 minuten** zijn. Clips mogen niet verkort worden. Als er om volledige scenario gevraagd wordt, dien je dit ook te kunnen laten zien.
 - De waarde van je refund moet minimaal €100.000 zijn.
 Als je refund hier niet aan voldoet, staat een stafflid in zijn/haar recht om je refund af te keuren.
-
-### Artikel 46 - Refunds 
 
 **Bij de volgende scenario's is er geen refund mogelijk:**
 - Wanneer een persoon wordt gebanned waar je spullen aan hebt uitgeleend.
