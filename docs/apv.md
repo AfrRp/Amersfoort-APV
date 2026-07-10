@@ -1,4 +1,4 @@
-F# Algemene Plaatselijke Verordening Amersfoort
+Algemene Plaatselijke Verordening Amersfoort
 
 ## Wetstechnische informatie
 
